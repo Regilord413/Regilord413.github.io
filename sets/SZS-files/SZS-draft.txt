@@ -1,0 +1,3619 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Lydian Choral Student",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/27_Lydian Choral Student.png"
+			}
+		},
+		{
+			"name": "Beat of Awakening",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/7_Beat of Awakening.png"
+			}
+		},
+		{
+			"name": "Special Disaster Victim",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/40_Special Disaster Victim.png"
+			}
+		},
+		{
+			"name": "Avid Fan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/6_Avid Fan.png"
+			}
+		},
+		{
+			"name": "Beef Stroganoff No Uta",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/8_Beef Stroganoff No Uta.png"
+			}
+		},
+		{
+			"name": "Bestie Brawler",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/9_Bestie Brawler.png"
+			}
+		},
+		{
+			"name": "Disaster Officer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/12_Disaster Officer.png"
+			}
+		},
+		{
+			"name": "Sentinel's Gear",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/36_Sentinel's Gear.png"
+			}
+		},
+		{
+			"name": "SONG Insertion Pilot",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Human Pilot",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/38_SONG Insertion Pilot.png"
+			}
+		},
+		{
+			"name": "Maria's Serenade",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/29_Maria's Serenade.png"
+			}
+		},
+		{
+			"name": "Dreadful Silence",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/14_Dreadful Silence.png"
+			}
+		},
+		{
+			"name": "Twin Heart Execution",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/44_Twin Heart Execution.png"
+			}
+		},
+		{
+			"name": "Seiten Galaxy Cross",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/35_Seiten Galaxy Cross.png"
+			}
+		},
+		{
+			"name": "Phonic Gains",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/33_Phonic Gains.png"
+			}
+		},
+		{
+			"name": "Moral Failing",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/31_Moral Failing.png"
+			}
+		},
+		{
+			"name": "Custodian Probe",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/51_Custodian Probe.png"
+			}
+		},
+		{
+			"name": "Autoscorer Prototype",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/49_Autoscorer Prototype.png"
+			}
+		},
+		{
+			"name": "Glide Gear",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/63_Glide Gear.png"
+			}
+		},
+		{
+			"name": "Lydian Professor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/68_Lydian Professor.png"
+			}
+		},
+		{
+			"name": "Relic of Rhythm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/75_Relic of Rhythm.png"
+			}
+		},
+		{
+			"name": "Fragment Filcher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/60_Fragment Filcher.png"
+			}
+		},
+		{
+			"name": "Installation Sentinel",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/66_Installation Sentinel.png"
+			}
+		},
+		{
+			"name": "Relic Feeder",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/74_Relic Feeder.png"
+			}
+		},
+		{
+			"name": "Harmonic Ward Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/64_Harmonic Ward Sentinel.png"
+			}
+		},
+		{
+			"name": "Touch of Shem-Ha",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/83_Touch of Shem-Ha.png"
+			}
+		},
+		{
+			"name": "Negate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/70_Negate.png"
+			}
+		},
+		{
+			"name": "Trapped by Distance",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/84_Trapped by Distance.png"
+			}
+		},
+		{
+			"name": "Damaging Lesson",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/52_Damaging Lesson.png"
+			}
+		},
+		{
+			"name": "Surveilance Relic",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/80_Surveilance Relic.png"
+			}
+		},
+		{
+			"name": "Duo Parry",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/55_Duo Parry.png"
+			}
+		},
+		{
+			"name": "Alkanoise Dissector",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Noise Construct",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/90_Alkanoise Dissector.png"
+			}
+		},
+		{
+			"name": "FIS Intern",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/104_FIS Intern.png"
+			}
+		},
+		{
+			"name": "Illuminati Test Subject",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Citizen",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/109_Illuminati Test Subject.png"
+			}
+		},
+		{
+			"name": "Wing-Blade Alkanoise",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Noise Construct",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/129_Wing-Blade Alkanoise.png"
+			}
+		},
+		{
+			"name": "Screaming Anguish",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/122_Screaming Anguish.png"
+			}
+		},
+		{
+			"name": "Carol's Hallsweeper",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/95_Carol's Hallsweeper.png"
+			}
+		},
+		{
+			"name": "Menacing Vibe",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/114_Menacing Vibe.png"
+			}
+		},
+		{
+			"name": "Devouring Alkanoise",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Noise Construct",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/101_Devouring Alkanoise.png"
+			}
+		},
+		{
+			"name": "Grasp of Babylonia",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/106_Grasp of Babylonia.png"
+			}
+		},
+		{
+			"name": "Koi no Okehazama",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/111_Koi no Okehazama.png"
+			}
+		},
+		{
+			"name": "Boon of Shem-Ha",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/94_Boon of Shem-Ha.png"
+			}
+		},
+		{
+			"name": "Harmonic Edge",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/107_Harmonic Edge.png"
+			}
+		},
+		{
+			"name": "Costly Plunder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/99_Costly Plunder.png"
+			}
+		},
+		{
+			"name": "Refrain",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/120_Refrain.png"
+			}
+		},
+		{
+			"name": "Devil's Peace",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/100_Devil's Peace.png"
+			}
+		},
+		{
+			"name": "Talent Show Announcer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/166_Talent Show Announcer.png"
+			}
+		},
+		{
+			"name": "Annunaki Turret",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/132_Annunaki Turret.png"
+			}
+		},
+		{
+			"name": "Genchaku Denko-o Keiji Ban",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/146_Genchaku Denko-o Keiji Ban.png"
+			}
+		},
+		{
+			"name": "Wrecking Gear",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/169_Wrecking Gear.png"
+			}
+		},
+		{
+			"name": "Idol's Clique",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/150_Idol's Clique.png"
+			}
+		},
+		{
+			"name": "Lydian Recruiter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/153_Lydian Recruiter.png"
+			}
+		},
+		{
+			"name": "Full-Throttle Tune",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/142_Full-Throttle Tune.png"
+			}
+		},
+		{
+			"name": "Annunaki Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/131_Annunaki Guardian.png"
+			}
+		},
+		{
+			"name": "Flame Lash",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/141_Flame Lash.png"
+			}
+		},
+		{
+			"name": "Billion Maiden",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/135_Billion Maiden.png"
+			}
+		},
+		{
+			"name": "Cathartic Reunion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/136_Cathartic Reunion.png"
+			}
+		},
+		{
+			"name": "Todoke Happy Uta Zukin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/167_Todoke Happy Uta Zukin.png"
+			}
+		},
+		{
+			"name": "Gear Ignition",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/144_Gear Ignition.png"
+			}
+		},
+		{
+			"name": "Cracked Heart",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/137_Cracked Heart.png"
+			}
+		},
+		{
+			"name": "Fushicho-o no Flamme",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/143_Fushicho-o no Flamme.png"
+			}
+		},
+		{
+			"name": "Alchemancery Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/172_Alchemancery Guard.png"
+			}
+		},
+		{
+			"name": "Friendly Youth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/186_Friendly Youth.png"
+			}
+		},
+		{
+			"name": "Stroganoff Clique",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/204_Stroganoff Clique.png"
+			}
+		},
+		{
+			"name": "Tune of the World",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/211_Tune of the World.png"
+			}
+		},
+		{
+			"name": "Song Eater",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Noise",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/201_Song Eater.png"
+			}
+		},
+		{
+			"name": "Alkanoise Duo",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Noise Construct",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/175_Alkanoise Duo.png"
+			}
+		},
+		{
+			"name": "Humming Harmonizer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/189_Humming Harmonizer.png"
+			}
+		},
+		{
+			"name": "Leaping Friend",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/192_Leaping Friend.png"
+			}
+		},
+		{
+			"name": "Elephantine Resonance",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/183_Elephantine Resonance.png"
+			}
+		},
+		{
+			"name": "Desperate Edge",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/181_Desperate Edge.png"
+			}
+		},
+		{
+			"name": "Surge of Heart",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/205_Surge of Heart.png"
+			}
+		},
+		{
+			"name": "Resounding Strength",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/199_Resounding Strength.png"
+			}
+		},
+		{
+			"name": "Training Montage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/208_Training Montage.png"
+			}
+		},
+		{
+			"name": "Burdened Wings",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/178_Burdened Wings.png"
+			}
+		},
+		{
+			"name": "Alchemical Dissolution",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/173_Alchemical Dissolution.png"
+			}
+		},
+		{
+			"name": "Stephan Virena",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/42_Stephan Virena.png"
+			}
+		},
+		{
+			"name": "Resonant Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior Citizen",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/34_Resonant Duelist.png"
+			}
+		},
+		{
+			"name": "Friendship Bracelet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/18_Friendship Bracelet.png"
+			}
+		},
+		{
+			"name": "Caring Teammate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Bard Citizen",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/10_Caring Teammate.png"
+			}
+		},
+		{
+			"name": "Silencing Noise",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Noise Octopus",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/37_Silencing Noise.png"
+			}
+		},
+		{
+			"name": "Harmonic Valkyrie",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Human Angel",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/23_Harmonic Valkyrie.png"
+			}
+		},
+		{
+			"name": "Lydian Anthem",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/26_Lydian Anthem.png"
+			}
+		},
+		{
+			"name": "Convention Superfan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/11_Convention Superfan.png"
+			}
+		},
+		{
+			"name": "Tomosato Aoi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/43_Tomosato Aoi.png"
+			}
+		},
+		{
+			"name": "Hidamari Memoria",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/25_Hidamari Memoria.png"
+			}
+		},
+		{
+			"name": "Heavenly Arts",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/24_Heavenly Arts.png"
+			}
+		},
+		{
+			"name": "Gekiso-o Gungnir",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/20_Gekiso-o Gungnir.png"
+			}
+		},
+		{
+			"name": "A Wall...",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/46_A Wall....png"
+			}
+		},
+		{
+			"name": "Ethereal Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/15_Ethereal Armor.png"
+			}
+		},
+		{
+			"name": "Philosophical Labyrinth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/32_Philosophical Labyrinth.png"
+			}
+		},
+		{
+			"name": "Unshakeable Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/45_Unshakeable Resolve.png"
+			}
+		},
+		{
+			"name": "SONG Quartermaster",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/77_SONG Quartermaster.png"
+			}
+		},
+		{
+			"name": "Fear of Isolation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Nightmare",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/58_Fear of Isolation.png"
+			}
+		},
+		{
+			"name": "Feedback Gear",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/59_Feedback Gear.png"
+			}
+		},
+		{
+			"name": "Recycled Alcanoise",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Noise",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/73_Recycled Alcanoise.png"
+			}
+		},
+		{
+			"name": "Scion of Balal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Noise",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/76_Scion of Balal.png"
+			}
+		},
+		{
+			"name": "Phara, Sword of Gales",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/72_Phara, Sword of Gales.png"
+			}
+		},
+		{
+			"name": "Illuminati Supplier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/65_Illuminati Supplier.png"
+			}
+		},
+		{
+			"name": "Mythology Expert",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/69_Mythology Expert.png"
+			}
+		},
+		{
+			"name": "Disdainful Stroke",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/54_Disdainful Stroke.png"
+			}
+		},
+		{
+			"name": "Duo Training",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/56_Duo Training.png"
+			}
+		},
+		{
+			"name": "These Insufficient Words",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/82_These Insufficient Words.png"
+			}
+		},
+		{
+			"name": "Emergency Withdraw",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/57_Emergency Withdraw.png"
+			}
+		},
+		{
+			"name": "Variable Saw Style",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/86_Variable Saw Style.png"
+			}
+		},
+		{
+			"name": "Zetto Ame no Habakiri",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/87_Zetto Ame no Habakiri.png"
+			}
+		},
+		{
+			"name": "Alchemical Viewscreen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/47_Alchemical Viewscreen.png"
+			}
+		},
+		{
+			"name": "Direct Feedback Programmer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/53_Direct Feedback Programmer.png"
+			}
+		},
+		{
+			"name": "Shambling Relic",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/123_Shambling Relic.png"
+			}
+		},
+		{
+			"name": "FIS Taskmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/105_FIS Taskmaster.png"
+			}
+		},
+		{
+			"name": "Chateau Defense Systems",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Construct Illusion",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/97_Chateau Defense Systems.png"
+			}
+		},
+		{
+			"name": "Lydian Class President",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/113_Lydian Class President.png"
+			}
+		},
+		{
+			"name": "Alchemist's Folly",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Enchantment Creature — Incarnation",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/89_Alchemist's Folly.png"
+			}
+		},
+		{
+			"name": "Ancient Resonist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Artificer Construct",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/91_Ancient Resonist.png"
+			}
+		},
+		{
+			"name": "Millaarc Cranstoun",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Vampire Artificer",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/116_Millaarc Cranstoun.png"
+			}
+		},
+		{
+			"name": "Shito-o -Ewigkeit-",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/124_Shito-o -Ewigkeit-.png"
+			}
+		},
+		{
+			"name": "Noise Capsules",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/118_Noise Capsules.png"
+			}
+		},
+		{
+			"name": "Orion Leyline",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/119_Orion Leyline.png"
+			}
+		},
+		{
+			"name": "Special Monster Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact — Blood",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/125_Special Monster Blood.png"
+			}
+		},
+		{
+			"name": "Meteor Light",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/115_Meteor Light.png"
+			}
+		},
+		{
+			"name": "tomorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/127_tomorrow.png"
+			}
+		},
+		{
+			"name": "LiNKER",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/112_LiNKER.png"
+			}
+		},
+		{
+			"name": "Infinity Gambits",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/110_Infinity Gambits.png"
+			}
+		},
+		{
+			"name": "Ressou Gungnir",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/121_Ressou Gungnir.png"
+			}
+		},
+		{
+			"name": "Expanding Gear",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/140_Expanding Gear.png"
+			}
+		},
+		{
+			"name": "Inflamatory Clique",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/151_Inflamatory Clique.png"
+			}
+		},
+		{
+			"name": "ALL LOVES BLAZING",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/130_ALL LOVES BLAZING.png"
+			}
+		},
+		{
+			"name": "Leiur, Glinting Coin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/152_Leiur, Glinting Coin.png"
+			}
+		},
+		{
+			"name": "Pyrotechnics on Wings",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Creature — Phoenix Incarnation",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/160_Pyrotechnics on Wings.png"
+			}
+		},
+		{
+			"name": "Sonia Virena",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/163_Sonia Virena.png"
+			}
+		},
+		{
+			"name": "Disasterous Faust Robe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/139_Disasterous Faust Robe.png"
+			}
+		},
+		{
+			"name": "Crackling Elekleid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/138_Crackling Elekleid.png"
+			}
+		},
+		{
+			"name": "Phonic Backlash",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/157_Phonic Backlash.png"
+			}
+		},
+		{
+			"name": "Relic Shrapnel",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/162_Relic Shrapnel.png"
+			}
+		},
+		{
+			"name": "Phonic Reverberation",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/158_Phonic Reverberation.png"
+			}
+		},
+		{
+			"name": "Stained Glance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/165_Stained Glance.png"
+			}
+		},
+		{
+			"name": "Gyakko-o No Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/148_Gyakko-o No Resolve.png"
+			}
+		},
+		{
+			"name": "Gun Bullet XXX",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/147_Gun Bullet XXX.png"
+			}
+		},
+		{
+			"name": "Megadeth Stance",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/155_Megadeth Stance.png"
+			}
+		},
+		{
+			"name": "Makyu-u Ichaival",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/154_Makyu-u Ichaival.png"
+			}
+		},
+		{
+			"name": "Okonomiyaki Vendor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/196_Okonomiyaki Vendor.png"
+			}
+		},
+		{
+			"name": "Lydian Harmonist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Bard",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/193_Lydian Harmonist.png"
+			}
+		},
+		{
+			"name": "Harmony of Clasped Hands",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/187_Harmony of Clasped Hands.png"
+			}
+		},
+		{
+			"name": "Elsa Bete",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Wolf Artificer",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/184_Elsa Bete.png"
+			}
+		},
+		{
+			"name": "Noise Devastator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Noise Juggernaut",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/195_Noise Devastator.png"
+			}
+		},
+		{
+			"name": "True Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Enchantment Creature — Incarnation",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/209_True Strength.png"
+			}
+		},
+		{
+			"name": "Alchemist of Extrema",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scientist Artificer",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/174_Alchemist of Extrema.png"
+			}
+		},
+		{
+			"name": "Tune of Remembrance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/210_Tune of Remembrance.png"
+			}
+		},
+		{
+			"name": "Bereaved Harmonist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Bard Citizen",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/176_Bereaved Harmonist.png"
+			}
+		},
+		{
+			"name": "Burgeoning Friendship",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/179_Burgeoning Friendship.png"
+			}
+		},
+		{
+			"name": "Strength of Seven Worlds",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/203_Strength of Seven Worlds.png"
+			}
+		},
+		{
+			"name": "Blossoming Courage",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/177_Blossoming Courage.png"
+			}
+		},
+		{
+			"name": "Fabled Techniques",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/185_Fabled Techniques.png"
+			}
+		},
+		{
+			"name": "Waikyo-o Shen Shou Jing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/212_Waikyo-o Shen Shou Jing.png"
+			}
+		},
+		{
+			"name": "Commune with the World",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/180_Commune with the World.png"
+			}
+		},
+		{
+			"name": "Ride or Die",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/200_Ride or Die.png"
+			}
+		},
+		{
+			"name": "Doctor Ver",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/13_Doctor Ver.png"
+			}
+		},
+		{
+			"name": "Fujitaka, Field Analyst",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/19_Fujitaka, Field Analyst.png"
+			}
+		},
+		{
+			"name": "Airgetlam",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/5_Airgetlam.png"
+			}
+		},
+		{
+			"name": "Spirit of Serena",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/41_Spirit of Serena.png"
+			}
+		},
+		{
+			"name": "First Love Song",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/16_First Love Song.png"
+			}
+		},
+		{
+			"name": "FIS Simulation Room",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/17_FIS Simulation Room.png"
+			}
+		},
+		{
+			"name": "Genkai Toppa G-Beat",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "21",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Regilord413.github.io/sets/SZS-files/img/21_Genkai Toppa G-Beat_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/21_Genkai Toppa G-Beat_front.png"
+			}
+		},
+		{
+			"name": "Ogawa Shinji",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/71_Ogawa Shinji.png"
+			}
+		},
+		{
+			"name": "Ame No Habakiri",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/48_Ame No Habakiri.png"
+			}
+		},
+		{
+			"name": "Spirit of Carol",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/78_Spirit of Carol.png"
+			}
+		},
+		{
+			"name": "Subspace Noise",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Noise",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/79_Subspace Noise.png"
+			}
+		},
+		{
+			"name": "The Cane of Solomon",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/50_The Cane of Solomon.png"
+			}
+		},
+		{
+			"name": "The Lunar Ruins",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/67_The Lunar Ruins.png"
+			}
+		},
+		{
+			"name": "Ginwan Airgetlam",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "62",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Regilord413.github.io/sets/SZS-files/img/62_Ginwan Airgetlam_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/62_Ginwan Airgetlam_front.png"
+			}
+		},
+		{
+			"name": "The Nephilim",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Artifact Creature — Monster",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/117_The Nephilim.png"
+			}
+		},
+		{
+			"name": "Axia no Kaze",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/93_Axia no Kaze.png"
+			}
+		},
+		{
+			"name": "Carrier Type Noise",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Noise",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/96_Carrier Type Noise.png"
+			}
+		},
+		{
+			"name": "Chateau di Tiffauges",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/98_Chateau di Tiffauges.png"
+			}
+		},
+		{
+			"name": "Spirit of Finé",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/126_Spirit of Finé.png"
+			}
+		},
+		{
+			"name": "The Ignite Module",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/108_The Ignite Module.png"
+			}
+		},
+		{
+			"name": "Trust Heart",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "128",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Regilord413.github.io/sets/SZS-files/img/128_Trust Heart_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/128_Trust Heart_front.png"
+			}
+		},
+		{
+			"name": "Purified Faust Robe",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/159_Purified Faust Robe.png"
+			}
+		},
+		{
+			"name": "Spirit of Kanade",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/164_Spirit of Kanade.png"
+			}
+		},
+		{
+			"name": "Ichaival",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/149_Ichaival.png"
+			}
+		},
+		{
+			"name": "On Wings of Song",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/156_On Wings of Song.png"
+			}
+		},
+		{
+			"name": "Armor Purge",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/133_Armor Purge.png"
+			}
+		},
+		{
+			"name": "Gekkisho Infinity",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/145_Gekkisho Infinity.png"
+			}
+		},
+		{
+			"name": "Beyond the Blade",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "134",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Regilord413.github.io/sets/SZS-files/img/134_Beyond the Blade_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/134_Beyond the Blade_front.png"
+			}
+		},
+		{
+			"name": "Tachibana Akira",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Coward",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/207_Tachibana Akira.png"
+			}
+		},
+		{
+			"name": "Moon Shrine Priest",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Mystic",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/194_Moon Shrine Priest.png"
+			}
+		},
+		{
+			"name": "Spirit of Saint Germain",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/202_Spirit of Saint Germain.png"
+			}
+		},
+		{
+			"name": "Dividing Alkanoise",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{G}",
+			"type": "Artifact Creature — Noise Hydra",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/182_Dividing Alkanoise.png"
+			}
+		},
+		{
+			"name": "With Open Hand Extended",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/213_With Open Hand Extended.png"
+			}
+		},
+		{
+			"name": "Kohinata Miku",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/191_Kohinata Miku.png"
+			}
+		},
+		{
+			"name": "Just Loving X-Edge",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "190",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Regilord413.github.io/sets/SZS-files/img/190_Just Loving X-Edge_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/190_Just Loving X-Edge_front.png"
+			}
+		},
+		{
+			"name": "Maria Cadenzavna Eve",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/28_Maria Cadenzavna Eve.png"
+			}
+		},
+		{
+			"name": "Gyakko no Flugel",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/22_Gyakko no Flugel.png"
+			}
+		},
+		{
+			"name": "Tsukuyomi Shirabe",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/85_Tsukuyomi Shirabe.png"
+			}
+		},
+		{
+			"name": "Fu-ugetsu no Shisso-o",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/61_Fu-ugetsu no Shisso-o.png"
+			}
+		},
+		{
+			"name": "Akatsuki Kirika",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/88_Akatsuki Kirika.png"
+			}
+		},
+		{
+			"name": "Angelic Remnant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/92_Angelic Remnant.png"
+			}
+		},
+		{
+			"name": "Yukine Chris",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/170_Yukine Chris.png"
+			}
+		},
+		{
+			"name": "Rainbow Flower",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/161_Rainbow Flower.png"
+			}
+		},
+		{
+			"name": "Replication Type Noise",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Noise",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/198_Replication Type Noise.png"
+			}
+		},
+		{
+			"name": "Hitsuai Duo-Shout",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/188_Hitsuai Duo-Shout.png"
+			}
+		},
+		{
+			"name": "Symphonic Unison",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/245_Symphonic Unison.png"
+			}
+		},
+		{
+			"name": "Garie, Rotten Grail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/223_Garie, Rotten Grail.png"
+			}
+		},
+		{
+			"name": "Micha, Blazing Rod",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/233_Micha, Blazing Rod.png"
+			}
+		},
+		{
+			"name": "Zenbu Clique",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/250_Zenbu Clique.png"
+			}
+		},
+		{
+			"name": "Izaak Dienheim",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/228_Izaak Dienheim.png"
+			}
+		},
+		{
+			"name": "Nastassja Sergeyevna Tolstaya",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/234_Nastassja Sergeyevna Tolstaya.png"
+			}
+		},
+		{
+			"name": "Vanessa Diodati",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Construct Artificer",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/247_Vanessa Diodati.png"
+			}
+		},
+		{
+			"name": "Arigato-o wo Utai Nagara",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/214_Arigato-o wo Utai Nagara.png"
+			}
+		},
+		{
+			"name": "Itaba Yumi",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/227_Itaba Yumi.png"
+			}
+		},
+		{
+			"name": "Golden Transmutation",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/224_Golden Transmutation.png"
+			}
+		},
+		{
+			"name": "Elfnein, Scion of Carol",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Construct Artificer",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/220_Elfnein, Scion of Carol.png"
+			}
+		},
+		{
+			"name": "Adam Weishaupt",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/215_Adam Weishaupt.png"
+			}
+		},
+		{
+			"name": "Cagliostro, Feminine Impact",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/217_Cagliostro, Feminine Impact.png"
+			}
+		},
+		{
+			"name": "Kazanari Genjuro",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/230_Kazanari Genjuro.png"
+			}
+		},
+		{
+			"name": "Kazanari Yatsuhiro",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/232_Kazanari Yatsuhiro.png"
+			}
+		},
+		{
+			"name": "Kazanari Fudou",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/229_Kazanari Fudou.png"
+			}
+		},
+		{
+			"name": "Ryoko Sakurai",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/239_Ryoko Sakurai.png"
+			}
+		},
+		{
+			"name": "Carol Malus Dienheim",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/218_Carol Malus Dienheim.png"
+			}
+		},
+		{
+			"name": "Saint Germain",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/240_Saint Germain.png"
+			}
+		},
+		{
+			"name": "Prelati, Alchemist Architect",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/237_Prelati, Alchemist Architect.png"
+			}
+		},
+		{
+			"name": "Racing Clique",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/3_Racing Clique.png"
+			}
+		},
+		{
+			"name": "RN-Type Armor",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/257_RN-Type Armor.png"
+			}
+		},
+		{
+			"name": "Coordination Radio",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/251_Coordination Radio.png"
+			}
+		},
+		{
+			"name": "Network Terminal",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/255_Network Terminal.png"
+			}
+		},
+		{
+			"name": "SONG Submarine",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/258_SONG Submarine.png"
+			}
+		},
+		{
+			"name": "Projectile Noise",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Noise",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/256_Projectile Noise.png"
+			}
+		},
+		{
+			"name": "Command Bridge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/260_Command Bridge.png"
+			}
+		},
+		{
+			"name": "Itsuka no Niji, Hana no Omoide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Enchantment — Saga",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/1_Itsuka no Niji, Hana no Omoide.png"
+			}
+		},
+		{
+			"name": "Instant Ramen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/254_Instant Ramen.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/266_Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Security Headquarters",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/265_Security Headquarters.png"
+			}
+		},
+		{
+			"name": "Concert Stadium",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/261_Concert Stadium.png"
+			}
+		},
+		{
+			"name": "Chateau Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/259_Chateau Ruins.png"
+			}
+		},
+		{
+			"name": "Music Academy Grounds",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/263_Music Academy Grounds.png"
+			}
+		},
+		{
+			"name": "Moon Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/262_Moon Shrine.png"
+			}
+		},
+		{
+			"name": "Change The Future",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/219_Change The Future.png"
+			}
+		},
+		{
+			"name": "Senkin Dur de Bla",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/241_Senkin Dur de Bla.png"
+			}
+		},
+		{
+			"name": "Senritsu Sorority",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/242_Senritsu Sorority.png"
+			}
+		},
+		{
+			"name": "Radiant Force",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/238_Radiant Force.png"
+			}
+		},
+		{
+			"name": "Hajimari no Babel",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/225_Hajimari no Babel.png"
+			}
+		},
+		{
+			"name": "Kyo-oshitsu Monochrome",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Enchantment — Saga",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/2_Kyo-oshitsu Monochrome.png"
+			}
+		},
+		{
+			"name": "The Nehushtan",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/235_The Nehushtan.png"
+			}
+		},
+		{
+			"name": "Section 2 HQ",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Regilord413.github.io/sets/SZS-files/img/264_Section 2 HQ_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/264_Section 2 HQ_front.png"
+			}
+		},
+		{
+			"name": "Shem-Ha Mephorash",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/4_Shem-Ha Mephorash.png"
+			}
+		},
+		{
+			"name": "Perfect Symphony",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/236_Perfect Symphony.png"
+			}
+		},
+		{
+			"name": "Tachibana Hibiki",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/246_Tachibana Hibiki.png"
+			}
+		},
+		{
+			"name": "Kazanari Tsubasa",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/231_Kazanari Tsubasa.png"
+			}
+		},
+		{
+			"name": "The X-Drive",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/249_The X-Drive.png"
+			}
+		},
+		{
+			"name": "METANOIA",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/30_METANOIA.png"
+			}
+		},
+		{
+			"name": "TESTAMENT",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/81_TESTAMENT.png"
+			}
+		},
+		{
+			"name": "EXTERMINATE",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/102_EXTERMINATE.png"
+			}
+		},
+		{
+			"name": "VITALIZATION",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/168_VITALIZATION.png"
+			}
+		},
+		{
+			"name": "SYNCHROGAZER",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/206_SYNCHROGAZER.png"
+			}
+		},
+		{
+			"name": "Ashita e no Flugel",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/216_Ashita e no Flugel.png"
+			}
+		},
+		{
+			"name": "Sforzando No Zankyo-o",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/243_Sforzando No Zankyo-o.png"
+			}
+		},
+		{
+			"name": "Final Commander",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/221_Final Commander.png"
+			}
+		},
+		{
+			"name": "FOR THE FUTURE",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/222_FOR THE FUTURE.png"
+			}
+		},
+		{
+			"name": "Hanasaku Yu-uki GOLD",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/226_Hanasaku Yu-uki GOLD.png"
+			}
+		},
+		{
+			"name": "Finé, Ghost of the Past",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Incarnation",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/103_Finé, Ghost of the Past.png"
+			}
+		},
+		{
+			"name": "Durendal Complete",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/253_Durendal Complete.png"
+			}
+		},
+		{
+			"name": "Yggdrasil Sprouting Site",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Regilord413.github.io/sets/SZS-files/img/267_Yggdrasil Sprouting Site_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/267_Yggdrasil Sprouting Site_front.png"
+			}
+		},
+		{
+			"name": "A Place to Call Home",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/197_A Place to Call Home.png"
+			}
+		},
+		{
+			"name": "Swan Song of the Valkyrie",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/244_Swan Song of the Valkyrie.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/268_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/269_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/270_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/271_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/272_Forest.png"
+			}
+		},
+		{
+			"name": "What it Sounds Like",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/248_What it Sounds Like.png"
+			}
+		},
+		{
+			"name": "Sonnet Yukine",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/39_Sonnet Yukine.png"
+			}
+		},
+		{
+			"name": "Yukine Masanori",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/171_Yukine Masanori.png"
+			}
+		},
+		{
+			"name": "Doomsday Calendar",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/252_Doomsday Calendar.png"
+			}
+		},
+		{
+			"name": "Noise",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Noise",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/2_Noise.png"
+			}
+		},
+		{
+			"name": "Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Citizen",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/1_Citizen.png"
+			}
+		},
+		{
+			"name": "Artificer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Artificer",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/3_Artificer.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact — Food",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Regilord413.github.io/sets/SZS-files/img/4_Food.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Doctor Ver
+	2 Fujitaka, Field Analyst
+	2 Airgetlam
+	2 Spirit of Serena
+	2 First Love Song
+	2 FIS Simulation Room
+	2 Genkai Toppa G-Beat
+	2 Ogawa Shinji
+	2 Ame No Habakiri
+	2 Spirit of Carol
+	2 Subspace Noise
+	2 The Cane of Solomon
+	2 The Lunar Ruins
+	2 Ginwan Airgetlam
+	2 The Nephilim
+	2 Axia no Kaze
+	2 Carrier Type Noise
+	2 Chateau di Tiffauges
+	2 Spirit of Finé
+	2 The Ignite Module
+	2 Trust Heart
+	2 Purified Faust Robe
+	2 Spirit of Kanade
+	2 Ichaival
+	2 On Wings of Song
+	2 Armor Purge
+	2 Gekkisho Infinity
+	2 Beyond the Blade
+	2 Tachibana Akira
+	2 Moon Shrine Priest
+	2 Spirit of Saint Germain
+	2 Dividing Alkanoise
+	2 With Open Hand Extended
+	2 Kohinata Miku
+	2 Just Loving X-Edge
+	1 Maria Cadenzavna Eve
+	1 Gyakko no Flugel
+	1 Tsukuyomi Shirabe
+	1 Fu-ugetsu no Shisso-o
+	1 Akatsuki Kirika
+	1 Angelic Remnant
+	1 Yukine Chris
+	1 Rainbow Flower
+	1 Replication Type Noise
+	1 Hitsuai Duo-Shout
+	2 Elfnein, Scion of Carol
+	2 Adam Weishaupt
+	2 Cagliostro, Feminine Impact
+	2 Kazanari Genjuro
+	2 Kazanari Yatsuhiro
+	2 Kazanari Fudou
+	2 Ryoko Sakurai
+	2 Carol Malus Dienheim
+	2 Saint Germain
+	2 Prelati, Alchemist Architect
+	2 Change The Future
+	2 Senkin Dur de Bla
+	2 Senritsu Sorority
+	2 Radiant Force
+	2 Hajimari no Babel
+	2 Kyo-oshitsu Monochrome
+	2 The Nehushtan
+	2 Section 2 HQ
+	1 Shem-Ha Mephorash
+	1 Perfect Symphony
+	1 Tachibana Hibiki
+	1 Kazanari Tsubasa
+	1 The X-Drive
+	1 METANOIA
+	1 TESTAMENT
+	1 EXTERMINATE
+	1 VITALIZATION
+	1 SYNCHROGAZER
+	1 Ashita e no Flugel
+	1 Sforzando No Zankyo-o
+	1 Final Commander
+	1 FOR THE FUTURE
+	1 Hanasaku Yu-uki GOLD
+	1 Finé, Ghost of the Past
+	1 Durendal Complete
+	1 Yggdrasil Sprouting Site
+	1 A Place to Call Home
+	1 Swan Song of the Valkyrie
+	1 What it Sounds Like
+	2 Doomsday Calendar
+[uncommon(3)]
+	4 Stephan Virena
+	4 Resonant Duelist
+	4 Friendship Bracelet
+	4 Caring Teammate
+	4 Silencing Noise
+	4 Harmonic Valkyrie
+	4 Lydian Anthem
+	4 Convention Superfan
+	4 Tomosato Aoi
+	4 Hidamari Memoria
+	4 Heavenly Arts
+	4 Gekiso-o Gungnir
+	4 A Wall...
+	4 Ethereal Armor
+	4 Philosophical Labyrinth
+	4 Unshakeable Resolve
+	4 SONG Quartermaster
+	4 Fear of Isolation
+	4 Feedback Gear
+	4 Recycled Alcanoise
+	4 Scion of Balal
+	4 Phara, Sword of Gales
+	4 Illuminati Supplier
+	4 Mythology Expert
+	4 Disdainful Stroke
+	4 Duo Training
+	4 These Insufficient Words
+	4 Emergency Withdraw
+	4 Variable Saw Style
+	4 Zetto Ame no Habakiri
+	4 Alchemical Viewscreen
+	4 Direct Feedback Programmer
+	4 Shambling Relic
+	4 FIS Taskmaster
+	4 Chateau Defense Systems
+	4 Lydian Class President
+	4 Alchemist's Folly
+	4 Ancient Resonist
+	4 Millaarc Cranstoun
+	4 Shito-o -Ewigkeit-
+	4 Noise Capsules
+	4 Orion Leyline
+	4 Special Monster Blood
+	4 Meteor Light
+	4 tomorrow
+	4 LiNKER
+	4 Infinity Gambits
+	4 Ressou Gungnir
+	4 Expanding Gear
+	4 Inflamatory Clique
+	4 ALL LOVES BLAZING
+	4 Leiur, Glinting Coin
+	4 Pyrotechnics on Wings
+	4 Sonia Virena
+	4 Disasterous Faust Robe
+	4 Crackling Elekleid
+	4 Phonic Backlash
+	4 Relic Shrapnel
+	4 Phonic Reverberation
+	4 Stained Glance
+	4 Gyakko-o No Resolve
+	4 Gun Bullet XXX
+	4 Megadeth Stance
+	4 Makyu-u Ichaival
+	4 Okonomiyaki Vendor
+	4 Lydian Harmonist
+	4 Harmony of Clasped Hands
+	4 Elsa Bete
+	4 Noise Devastator
+	4 True Strength
+	4 Alchemist of Extrema
+	4 Tune of Remembrance
+	4 Bereaved Harmonist
+	4 Burgeoning Friendship
+	4 Strength of Seven Worlds
+	4 Blossoming Courage
+	4 Fabled Techniques
+	4 Waikyo-o Shen Shou Jing
+	4 Commune with the World
+	4 Ride or Die
+	4 Symphonic Unison
+	4 Garie, Rotten Grail
+	4 Micha, Blazing Rod
+	4 Zenbu Clique
+	4 Izaak Dienheim
+	4 Nastassja Sergeyevna Tolstaya
+	4 Vanessa Diodati
+	4 Arigato-o wo Utai Nagara
+	4 Itaba Yumi
+	4 Golden Transmutation
+	4 SONG Submarine
+	4 Projectile Noise
+	4 Command Bridge
+	4 Itsuka no Niji, Hana no Omoide
+	4 Instant Ramen
+	4 Security Headquarters
+	4 Concert Stadium
+	4 Chateau Ruins
+	4 Music Academy Grounds
+	4 Moon Shrine
+	4 Sonnet Yukine
+	4 Yukine Masanori
+[common(7)]
+	8 Lydian Choral Student
+	8 Beat of Awakening
+	8 Special Disaster Victim
+	8 Avid Fan
+	8 Beef Stroganoff No Uta
+	8 Bestie Brawler
+	8 Disaster Officer
+	8 Sentinel's Gear
+	8 SONG Insertion Pilot
+	8 Maria's Serenade
+	8 Dreadful Silence
+	8 Twin Heart Execution
+	8 Seiten Galaxy Cross
+	8 Phonic Gains
+	8 Moral Failing
+	8 Custodian Probe
+	8 Autoscorer Prototype
+	8 Glide Gear
+	8 Lydian Professor
+	8 Relic of Rhythm
+	8 Fragment Filcher
+	8 Installation Sentinel
+	8 Relic Feeder
+	8 Harmonic Ward Sentinel
+	8 Touch of Shem-Ha
+	8 Negate
+	8 Trapped by Distance
+	8 Damaging Lesson
+	8 Surveilance Relic
+	8 Duo Parry
+	8 Alkanoise Dissector
+	8 FIS Intern
+	8 Illuminati Test Subject
+	8 Wing-Blade Alkanoise
+	8 Screaming Anguish
+	8 Carol's Hallsweeper
+	8 Menacing Vibe
+	8 Devouring Alkanoise
+	8 Grasp of Babylonia
+	8 Koi no Okehazama
+	8 Boon of Shem-Ha
+	8 Harmonic Edge
+	8 Costly Plunder
+	8 Refrain
+	8 Devil's Peace
+	8 Talent Show Announcer
+	8 Annunaki Turret
+	8 Genchaku Denko-o Keiji Ban
+	8 Wrecking Gear
+	8 Idol's Clique
+	8 Lydian Recruiter
+	8 Full-Throttle Tune
+	8 Annunaki Guardian
+	8 Flame Lash
+	8 Billion Maiden
+	8 Cathartic Reunion
+	8 Todoke Happy Uta Zukin
+	8 Gear Ignition
+	8 Cracked Heart
+	8 Fushicho-o no Flamme
+	8 Alchemancery Guard
+	8 Friendly Youth
+	8 Stroganoff Clique
+	8 Tune of the World
+	8 Song Eater
+	8 Alkanoise Duo
+	8 Humming Harmonizer
+	8 Leaping Friend
+	8 Elephantine Resonance
+	8 Desperate Edge
+	8 Surge of Heart
+	8 Resounding Strength
+	8 Training Montage
+	8 Burdened Wings
+	8 Alchemical Dissolution
+	8 Racing Clique
+	8 RN-Type Armor
+	8 Coordination Radio
+	8 Network Terminal
+	8 Terramorphic Expanse
+[foil(1)]
+	12 Lydian Choral Student
+	12 Beat of Awakening
+	12 Special Disaster Victim
+	12 Avid Fan
+	12 Beef Stroganoff No Uta
+	12 Bestie Brawler
+	12 Disaster Officer
+	12 Sentinel's Gear
+	12 SONG Insertion Pilot
+	12 Maria's Serenade
+	12 Dreadful Silence
+	12 Twin Heart Execution
+	12 Seiten Galaxy Cross
+	12 Phonic Gains
+	12 Moral Failing
+	12 Custodian Probe
+	12 Autoscorer Prototype
+	12 Glide Gear
+	12 Lydian Professor
+	12 Relic of Rhythm
+	12 Fragment Filcher
+	12 Installation Sentinel
+	12 Relic Feeder
+	12 Harmonic Ward Sentinel
+	12 Touch of Shem-Ha
+	12 Negate
+	12 Trapped by Distance
+	12 Damaging Lesson
+	12 Surveilance Relic
+	12 Duo Parry
+	12 Alkanoise Dissector
+	12 FIS Intern
+	12 Illuminati Test Subject
+	12 Wing-Blade Alkanoise
+	12 Screaming Anguish
+	12 Carol's Hallsweeper
+	12 Menacing Vibe
+	12 Devouring Alkanoise
+	12 Grasp of Babylonia
+	12 Koi no Okehazama
+	12 Boon of Shem-Ha
+	12 Harmonic Edge
+	12 Costly Plunder
+	12 Refrain
+	12 Devil's Peace
+	12 Talent Show Announcer
+	12 Annunaki Turret
+	12 Genchaku Denko-o Keiji Ban
+	12 Wrecking Gear
+	12 Idol's Clique
+	12 Lydian Recruiter
+	12 Full-Throttle Tune
+	12 Annunaki Guardian
+	12 Flame Lash
+	12 Billion Maiden
+	12 Cathartic Reunion
+	12 Todoke Happy Uta Zukin
+	12 Gear Ignition
+	12 Cracked Heart
+	12 Fushicho-o no Flamme
+	12 Alchemancery Guard
+	12 Friendly Youth
+	12 Stroganoff Clique
+	12 Tune of the World
+	12 Song Eater
+	12 Alkanoise Duo
+	12 Humming Harmonizer
+	12 Leaping Friend
+	12 Elephantine Resonance
+	12 Desperate Edge
+	12 Surge of Heart
+	12 Resounding Strength
+	12 Training Montage
+	12 Burdened Wings
+	12 Alchemical Dissolution
+	6 Stephan Virena
+	6 Resonant Duelist
+	6 Friendship Bracelet
+	6 Caring Teammate
+	6 Silencing Noise
+	6 Harmonic Valkyrie
+	6 Lydian Anthem
+	6 Convention Superfan
+	6 Tomosato Aoi
+	6 Hidamari Memoria
+	6 Heavenly Arts
+	6 Gekiso-o Gungnir
+	6 A Wall...
+	6 Ethereal Armor
+	6 Philosophical Labyrinth
+	6 Unshakeable Resolve
+	6 SONG Quartermaster
+	6 Fear of Isolation
+	6 Feedback Gear
+	6 Recycled Alcanoise
+	6 Scion of Balal
+	6 Phara, Sword of Gales
+	6 Illuminati Supplier
+	6 Mythology Expert
+	6 Disdainful Stroke
+	6 Duo Training
+	6 These Insufficient Words
+	6 Emergency Withdraw
+	6 Variable Saw Style
+	6 Zetto Ame no Habakiri
+	6 Alchemical Viewscreen
+	6 Direct Feedback Programmer
+	6 Shambling Relic
+	6 FIS Taskmaster
+	6 Chateau Defense Systems
+	6 Lydian Class President
+	6 Alchemist's Folly
+	6 Ancient Resonist
+	6 Millaarc Cranstoun
+	6 Shito-o -Ewigkeit-
+	6 Noise Capsules
+	6 Orion Leyline
+	6 Special Monster Blood
+	6 Meteor Light
+	6 tomorrow
+	6 LiNKER
+	6 Infinity Gambits
+	6 Ressou Gungnir
+	6 Expanding Gear
+	6 Inflamatory Clique
+	6 ALL LOVES BLAZING
+	6 Leiur, Glinting Coin
+	6 Pyrotechnics on Wings
+	6 Sonia Virena
+	6 Disasterous Faust Robe
+	6 Crackling Elekleid
+	6 Phonic Backlash
+	6 Relic Shrapnel
+	6 Phonic Reverberation
+	6 Stained Glance
+	6 Gyakko-o No Resolve
+	6 Gun Bullet XXX
+	6 Megadeth Stance
+	6 Makyu-u Ichaival
+	6 Okonomiyaki Vendor
+	6 Lydian Harmonist
+	6 Harmony of Clasped Hands
+	6 Elsa Bete
+	6 Noise Devastator
+	6 True Strength
+	6 Alchemist of Extrema
+	6 Tune of Remembrance
+	6 Bereaved Harmonist
+	6 Burgeoning Friendship
+	6 Strength of Seven Worlds
+	6 Blossoming Courage
+	6 Fabled Techniques
+	6 Waikyo-o Shen Shou Jing
+	6 Commune with the World
+	6 Ride or Die
+	2 Doctor Ver
+	2 Fujitaka, Field Analyst
+	2 Airgetlam
+	2 Spirit of Serena
+	2 First Love Song
+	2 FIS Simulation Room
+	2 Genkai Toppa G-Beat
+	2 Ogawa Shinji
+	2 Ame No Habakiri
+	2 Spirit of Carol
+	2 Subspace Noise
+	2 The Cane of Solomon
+	2 The Lunar Ruins
+	2 Ginwan Airgetlam
+	2 The Nephilim
+	2 Axia no Kaze
+	2 Carrier Type Noise
+	2 Chateau di Tiffauges
+	2 Spirit of Finé
+	2 The Ignite Module
+	2 Trust Heart
+	2 Purified Faust Robe
+	2 Spirit of Kanade
+	2 Ichaival
+	2 On Wings of Song
+	2 Armor Purge
+	2 Gekkisho Infinity
+	2 Beyond the Blade
+	2 Tachibana Akira
+	2 Moon Shrine Priest
+	2 Spirit of Saint Germain
+	2 Dividing Alkanoise
+	2 With Open Hand Extended
+	2 Kohinata Miku
+	2 Just Loving X-Edge
+	1 Maria Cadenzavna Eve
+	1 Gyakko no Flugel
+	1 Tsukuyomi Shirabe
+	1 Fu-ugetsu no Shisso-o
+	1 Akatsuki Kirika
+	1 Angelic Remnant
+	1 Yukine Chris
+	1 Rainbow Flower
+	1 Replication Type Noise
+	1 Hitsuai Duo-Shout
+	6 Symphonic Unison
+	6 Garie, Rotten Grail
+	6 Micha, Blazing Rod
+	6 Zenbu Clique
+	6 Izaak Dienheim
+	6 Nastassja Sergeyevna Tolstaya
+	6 Vanessa Diodati
+	6 Arigato-o wo Utai Nagara
+	6 Itaba Yumi
+	6 Golden Transmutation
+	2 Elfnein, Scion of Carol
+	2 Adam Weishaupt
+	2 Cagliostro, Feminine Impact
+	2 Kazanari Genjuro
+	2 Kazanari Yatsuhiro
+	2 Kazanari Fudou
+	2 Ryoko Sakurai
+	2 Carol Malus Dienheim
+	2 Saint Germain
+	2 Prelati, Alchemist Architect
+	12 Racing Clique
+	12 RN-Type Armor
+	12 Coordination Radio
+	12 Network Terminal
+	6 SONG Submarine
+	6 Projectile Noise
+	6 Command Bridge
+	6 Itsuka no Niji, Hana no Omoide
+	6 Instant Ramen
+	12 Terramorphic Expanse
+	6 Security Headquarters
+	6 Concert Stadium
+	6 Chateau Ruins
+	6 Music Academy Grounds
+	6 Moon Shrine
+	2 Change The Future
+	2 Senkin Dur de Bla
+	2 Senritsu Sorority
+	2 Radiant Force
+	2 Hajimari no Babel
+	2 Kyo-oshitsu Monochrome
+	2 The Nehushtan
+	2 Section 2 HQ
+	1 Shem-Ha Mephorash
+	1 Perfect Symphony
+	1 Tachibana Hibiki
+	1 Kazanari Tsubasa
+	1 The X-Drive
+	1 METANOIA
+	1 TESTAMENT
+	1 EXTERMINATE
+	1 VITALIZATION
+	1 SYNCHROGAZER
+	1 Ashita e no Flugel
+	1 Sforzando No Zankyo-o
+	1 Final Commander
+	1 FOR THE FUTURE
+	1 Hanasaku Yu-uki GOLD
+	1 Finé, Ghost of the Past
+	1 Durendal Complete
+	1 Yggdrasil Sprouting Site
+	1 A Place to Call Home
+	1 Swan Song of the Valkyrie
+	1 What it Sounds Like
+	6 Sonnet Yukine
+	6 Yukine Masanori
+	2 Doomsday Calendar
+[wildcard(1)]
+	6 Lydian Choral Student
+	6 Beat of Awakening
+	6 Special Disaster Victim
+	6 Avid Fan
+	6 Beef Stroganoff No Uta
+	6 Bestie Brawler
+	6 Disaster Officer
+	6 Sentinel's Gear
+	6 SONG Insertion Pilot
+	6 Maria's Serenade
+	6 Dreadful Silence
+	6 Twin Heart Execution
+	6 Seiten Galaxy Cross
+	6 Phonic Gains
+	6 Moral Failing
+	6 Custodian Probe
+	6 Autoscorer Prototype
+	6 Glide Gear
+	6 Lydian Professor
+	6 Relic of Rhythm
+	6 Fragment Filcher
+	6 Installation Sentinel
+	6 Relic Feeder
+	6 Harmonic Ward Sentinel
+	6 Touch of Shem-Ha
+	6 Negate
+	6 Trapped by Distance
+	6 Damaging Lesson
+	6 Surveilance Relic
+	6 Duo Parry
+	6 Alkanoise Dissector
+	6 FIS Intern
+	6 Illuminati Test Subject
+	6 Wing-Blade Alkanoise
+	6 Screaming Anguish
+	6 Carol's Hallsweeper
+	6 Menacing Vibe
+	6 Devouring Alkanoise
+	6 Grasp of Babylonia
+	6 Koi no Okehazama
+	6 Boon of Shem-Ha
+	6 Harmonic Edge
+	6 Costly Plunder
+	6 Refrain
+	6 Devil's Peace
+	6 Talent Show Announcer
+	6 Annunaki Turret
+	6 Genchaku Denko-o Keiji Ban
+	6 Wrecking Gear
+	6 Idol's Clique
+	6 Lydian Recruiter
+	6 Full-Throttle Tune
+	6 Annunaki Guardian
+	6 Flame Lash
+	6 Billion Maiden
+	6 Cathartic Reunion
+	6 Todoke Happy Uta Zukin
+	6 Gear Ignition
+	6 Cracked Heart
+	6 Fushicho-o no Flamme
+	6 Alchemancery Guard
+	6 Friendly Youth
+	6 Stroganoff Clique
+	6 Tune of the World
+	6 Song Eater
+	6 Alkanoise Duo
+	6 Humming Harmonizer
+	6 Leaping Friend
+	6 Elephantine Resonance
+	6 Desperate Edge
+	6 Surge of Heart
+	6 Resounding Strength
+	6 Training Montage
+	6 Burdened Wings
+	6 Alchemical Dissolution
+	15 Stephan Virena
+	15 Resonant Duelist
+	15 Friendship Bracelet
+	15 Caring Teammate
+	15 Silencing Noise
+	15 Harmonic Valkyrie
+	15 Lydian Anthem
+	15 Convention Superfan
+	15 Tomosato Aoi
+	15 Hidamari Memoria
+	15 Heavenly Arts
+	15 Gekiso-o Gungnir
+	15 A Wall...
+	15 Ethereal Armor
+	15 Philosophical Labyrinth
+	15 Unshakeable Resolve
+	15 SONG Quartermaster
+	15 Fear of Isolation
+	15 Feedback Gear
+	15 Recycled Alcanoise
+	15 Scion of Balal
+	15 Phara, Sword of Gales
+	15 Illuminati Supplier
+	15 Mythology Expert
+	15 Disdainful Stroke
+	15 Duo Training
+	15 These Insufficient Words
+	15 Emergency Withdraw
+	15 Variable Saw Style
+	15 Zetto Ame no Habakiri
+	15 Alchemical Viewscreen
+	15 Direct Feedback Programmer
+	15 Shambling Relic
+	15 FIS Taskmaster
+	15 Chateau Defense Systems
+	15 Lydian Class President
+	15 Alchemist's Folly
+	15 Ancient Resonist
+	15 Millaarc Cranstoun
+	15 Shito-o -Ewigkeit-
+	15 Noise Capsules
+	15 Orion Leyline
+	15 Special Monster Blood
+	15 Meteor Light
+	15 tomorrow
+	15 LiNKER
+	15 Infinity Gambits
+	15 Ressou Gungnir
+	15 Expanding Gear
+	15 Inflamatory Clique
+	15 ALL LOVES BLAZING
+	15 Leiur, Glinting Coin
+	15 Pyrotechnics on Wings
+	15 Sonia Virena
+	15 Disasterous Faust Robe
+	15 Crackling Elekleid
+	15 Phonic Backlash
+	15 Relic Shrapnel
+	15 Phonic Reverberation
+	15 Stained Glance
+	15 Gyakko-o No Resolve
+	15 Gun Bullet XXX
+	15 Megadeth Stance
+	15 Makyu-u Ichaival
+	15 Okonomiyaki Vendor
+	15 Lydian Harmonist
+	15 Harmony of Clasped Hands
+	15 Elsa Bete
+	15 Noise Devastator
+	15 True Strength
+	15 Alchemist of Extrema
+	15 Tune of Remembrance
+	15 Bereaved Harmonist
+	15 Burgeoning Friendship
+	15 Strength of Seven Worlds
+	15 Blossoming Courage
+	15 Fabled Techniques
+	15 Waikyo-o Shen Shou Jing
+	15 Commune with the World
+	15 Ride or Die
+	7 Doctor Ver
+	7 Fujitaka, Field Analyst
+	7 Airgetlam
+	7 Spirit of Serena
+	7 First Love Song
+	7 FIS Simulation Room
+	7 Genkai Toppa G-Beat
+	7 Ogawa Shinji
+	7 Ame No Habakiri
+	7 Spirit of Carol
+	7 Subspace Noise
+	7 The Cane of Solomon
+	7 The Lunar Ruins
+	7 Ginwan Airgetlam
+	7 The Nephilim
+	7 Axia no Kaze
+	7 Carrier Type Noise
+	7 Chateau di Tiffauges
+	7 Spirit of Finé
+	7 The Ignite Module
+	7 Trust Heart
+	7 Purified Faust Robe
+	7 Spirit of Kanade
+	7 Ichaival
+	7 On Wings of Song
+	7 Armor Purge
+	7 Gekkisho Infinity
+	7 Beyond the Blade
+	7 Tachibana Akira
+	7 Moon Shrine Priest
+	7 Spirit of Saint Germain
+	7 Dividing Alkanoise
+	7 With Open Hand Extended
+	7 Kohinata Miku
+	7 Just Loving X-Edge
+	4 Maria Cadenzavna Eve
+	4 Gyakko no Flugel
+	4 Tsukuyomi Shirabe
+	4 Fu-ugetsu no Shisso-o
+	4 Akatsuki Kirika
+	4 Angelic Remnant
+	4 Yukine Chris
+	4 Rainbow Flower
+	4 Replication Type Noise
+	4 Hitsuai Duo-Shout
+	15 Symphonic Unison
+	15 Garie, Rotten Grail
+	15 Micha, Blazing Rod
+	15 Zenbu Clique
+	15 Izaak Dienheim
+	15 Nastassja Sergeyevna Tolstaya
+	15 Vanessa Diodati
+	15 Arigato-o wo Utai Nagara
+	15 Itaba Yumi
+	15 Golden Transmutation
+	7 Elfnein, Scion of Carol
+	7 Adam Weishaupt
+	7 Cagliostro, Feminine Impact
+	7 Kazanari Genjuro
+	7 Kazanari Yatsuhiro
+	7 Kazanari Fudou
+	7 Ryoko Sakurai
+	7 Carol Malus Dienheim
+	7 Saint Germain
+	7 Prelati, Alchemist Architect
+	6 Racing Clique
+	6 RN-Type Armor
+	6 Coordination Radio
+	6 Network Terminal
+	15 SONG Submarine
+	15 Projectile Noise
+	15 Command Bridge
+	15 Itsuka no Niji, Hana no Omoide
+	15 Instant Ramen
+	6 Terramorphic Expanse
+	15 Security Headquarters
+	15 Concert Stadium
+	15 Chateau Ruins
+	15 Music Academy Grounds
+	15 Moon Shrine
+	7 Change The Future
+	7 Senkin Dur de Bla
+	7 Senritsu Sorority
+	7 Radiant Force
+	7 Hajimari no Babel
+	7 Kyo-oshitsu Monochrome
+	7 The Nehushtan
+	7 Section 2 HQ
+	4 Shem-Ha Mephorash
+	4 Perfect Symphony
+	4 Tachibana Hibiki
+	4 Kazanari Tsubasa
+	4 The X-Drive
+	4 METANOIA
+	4 TESTAMENT
+	4 EXTERMINATE
+	4 VITALIZATION
+	4 SYNCHROGAZER
+	4 Ashita e no Flugel
+	4 Sforzando No Zankyo-o
+	4 Final Commander
+	4 FOR THE FUTURE
+	4 Hanasaku Yu-uki GOLD
+	4 Finé, Ghost of the Past
+	4 Durendal Complete
+	4 Yggdrasil Sprouting Site
+	4 A Place to Call Home
+	4 Swan Song of the Valkyrie
+	4 What it Sounds Like
+	15 Sonnet Yukine
+	15 Yukine Masanori
+	7 Doomsday Calendar

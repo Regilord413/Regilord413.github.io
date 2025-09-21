@@ -7,55 +7,85 @@
     },
     {
         "card_name": "Fu-ugetsu no Shisso-o",
-        "number": 59,
+        "number": 61,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Akatsuki Kirika",
-        "number": 86,
+        "number": 88,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Rainbow Flower",
-        "number": 158,
+        "number": 161,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Hitsuai Duo-Shout",
-        "number": 182,
+        "number": 188,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Maria Cadenzavna Eve",
-        "number": 29,
+        "number": 28,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Tsukuyomi Shirabe",
-        "number": 83,
-        "shape": "normal",
+        "card_name": "TESTAMENT",
+        "number": 81,
+        "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Angelic Remnant",
-        "number": 90,
+        "number": 92,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "VITALIZATION",
+        "number": 168,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "A Place to Call Home",
+        "number": 197,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "METANOIA",
+        "number": 30,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Tsukuyomi Shirabe",
+        "number": 85,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "EXTERMINATE",
+        "number": 102,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Yukine Chris",
-        "number": 165,
+        "number": 170,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Replication Type Noise",
-        "number": 191,
+        "number": 198,
         "shape": "normal",
         "set": "SZS"
     },
@@ -67,26 +97,26 @@
     },
     {
         "card_name": "Ame No Habakiri",
-        "number": 45,
+        "number": 48,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Carrier Type Noise",
-        "number": 94,
+        "card_name": "Fin\u00e9, Ghost of the Past",
+        "number": 103,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Armor Purge",
-        "number": 129,
+        "number": 133,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Dividing Alkanoise",
-        "number": 176,
-        "shape": "normal",
+        "card_name": "SYNCHROGAZER",
+        "number": 206,
+        "shape": "saga",
         "set": "SZS"
     },
     {
@@ -97,26 +127,26 @@
     },
     {
         "card_name": "The Cane of Solomon",
-        "number": 48,
+        "number": 50,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Chateau di Tiffauges",
-        "number": 96,
-        "shape": "normal",
+        "card_name": "Axia no Kaze",
+        "number": 93,
+        "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Beyond the Blade",
-        "number": 130,
+        "number": 134,
         "shape": "transform double faced",
         "set": "SZS"
     },
     {
-        "card_name": "Just Loving X-Edge",
-        "number": 184,
-        "shape": "transform double faced",
+        "card_name": "Dividing Alkanoise",
+        "number": 182,
+        "shape": "normal",
         "set": "SZS"
     },
     {
@@ -127,26 +157,26 @@
     },
     {
         "card_name": "Ginwan Airgetlam",
-        "number": 60,
+        "number": 62,
         "shape": "transform double faced",
         "set": "SZS"
     },
     {
-        "card_name": "The Ignite Module",
-        "number": 104,
+        "card_name": "Carrier Type Noise",
+        "number": 96,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Gekkisho Infinity",
-        "number": 141,
+        "number": 145,
         "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "Kohinata Miku",
-        "number": 185,
-        "shape": "normal",
+        "card_name": "Just Loving X-Edge",
+        "number": 190,
+        "shape": "transform double faced",
         "set": "SZS"
     },
     {
@@ -157,25 +187,25 @@
     },
     {
         "card_name": "The Lunar Ruins",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "The Nephilim",
-        "number": 112,
+        "card_name": "Chateau di Tiffauges",
+        "number": 98,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Ichaival",
-        "number": 146,
+        "number": 149,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Moon Shrine Priest",
-        "number": 188,
+        "card_name": "Kohinata Miku",
+        "number": 191,
         "shape": "normal",
         "set": "SZS"
     },
@@ -187,25 +217,25 @@
     },
     {
         "card_name": "Ogawa Shinji",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Sforzando no Zankyo",
-        "number": 118,
-        "shape": "saga",
+        "card_name": "The Ignite Module",
+        "number": 108,
+        "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "On Wings of Song",
-        "number": 153,
+        "number": 156,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Spirit of Saint Germain",
-        "number": 195,
+        "card_name": "Moon Shrine Priest",
+        "number": 194,
         "shape": "normal",
         "set": "SZS"
     },
@@ -222,26 +252,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Spirit of Fin\u00e9",
-        "number": 122,
+        "card_name": "The Nephilim",
+        "number": 117,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Purified Faust Robe",
-        "number": 156,
+        "number": 159,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Tachibana Akira",
-        "number": 199,
+        "card_name": "Spirit of Saint Germain",
+        "number": 202,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Spirit of Serena",
-        "number": 40,
+        "number": 41,
         "shape": "normal",
         "set": "SZS"
     },
@@ -252,20 +282,20 @@
         "set": "SZS"
     },
     {
-        "card_name": "Trust Heart",
-        "number": 124,
-        "shape": "transform double faced",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Spirit of Kanade",
-        "number": 161,
+        "card_name": "Spirit of Fin\u00e9",
+        "number": 126,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "With Open Hand Extended",
-        "number": 205,
+        "card_name": "Spirit of Kanade",
+        "number": 164,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Tachibana Akira",
+        "number": 207,
         "shape": "normal",
         "set": "SZS"
     },
@@ -276,26 +306,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Direct Feedback Programmer",
-        "number": 51,
+        "card_name": "Alchemical Viewscreen",
+        "number": 47,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Alchemist's Folly",
-        "number": 87,
-        "shape": "normal",
+        "card_name": "Trust Heart",
+        "number": 128,
+        "shape": "transform double faced",
         "set": "SZS"
     },
     {
         "card_name": "ALL LOVES BLAZING",
-        "number": 126,
+        "number": 130,
         "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "Alchemist of Extrema",
-        "number": 168,
+        "card_name": "With Open Hand Extended",
+        "number": 213,
         "shape": "normal",
         "set": "SZS"
     },
@@ -306,26 +336,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Disdainful Stroke",
-        "number": 52,
+        "card_name": "Direct Feedback Programmer",
+        "number": 53,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Ancient Resonist",
+        "card_name": "Alchemist's Folly",
         "number": 89,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Crackling Elekleid",
-        "number": 134,
+        "number": 138,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Bereaved Harmonist",
-        "number": 170,
+        "card_name": "Alchemist of Extrema",
+        "number": 174,
         "shape": "normal",
         "set": "SZS"
     },
@@ -336,26 +366,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Duo Training",
+        "card_name": "Disdainful Stroke",
         "number": 54,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "AntiLiNKER Canister",
+        "card_name": "Ancient Resonist",
         "number": 91,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Disasterous Faust Robe",
-        "number": 135,
+        "number": 139,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Blossoming Courage",
-        "number": 171,
+        "card_name": "Bereaved Harmonist",
+        "number": 176,
         "shape": "normal",
         "set": "SZS"
     },
@@ -366,26 +396,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Emergency Withdraw",
-        "number": 55,
+        "card_name": "Duo Training",
+        "number": 56,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Chateau Defense Systems",
-        "number": 95,
+        "number": 97,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Expanding Gear",
-        "number": 136,
+        "number": 140,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Burgeoning Friendship",
-        "number": 173,
+        "card_name": "Blossoming Courage",
+        "number": 177,
         "shape": "normal",
         "set": "SZS"
     },
@@ -396,26 +426,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Fear of Isolation",
-        "number": 56,
+        "card_name": "Emergency Withdraw",
+        "number": 57,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "FIS Taskmaster",
-        "number": 101,
+        "number": 105,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Gun Bullet XXX",
-        "number": 143,
+        "number": 147,
         "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "Commune with the World",
-        "number": 174,
+        "card_name": "Burgeoning Friendship",
+        "number": 179,
         "shape": "normal",
         "set": "SZS"
     },
@@ -426,26 +456,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Feedback Gear",
-        "number": 57,
+        "card_name": "Fear of Isolation",
+        "number": 58,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Infinity Gambits",
-        "number": 106,
+        "number": 110,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Gyakko-o No Resolve",
-        "number": 144,
+        "number": 148,
         "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "Elsa Bete",
-        "number": 178,
+        "card_name": "Commune with the World",
+        "number": 180,
         "shape": "normal",
         "set": "SZS"
     },
@@ -456,26 +486,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Illuminati Supplier",
-        "number": 63,
+        "card_name": "Feedback Gear",
+        "number": 59,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "LiNKER",
-        "number": 108,
+        "number": 112,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Harmony of Power",
-        "number": 145,
+        "card_name": "Inflamatory Clique",
+        "number": 151,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Fabled Techniques",
-        "number": 179,
+        "card_name": "Elsa Bete",
+        "number": 184,
         "shape": "normal",
         "set": "SZS"
     },
@@ -486,26 +516,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Kazanari Codebreaker",
+        "card_name": "Illuminati Supplier",
         "number": 65,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Lydian Class President",
-        "number": 109,
+        "number": 113,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Inflamatory Clique",
-        "number": 148,
+        "card_name": "Leiur, Glinting Coin",
+        "number": 152,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Harmony of Clasped Hands",
-        "number": 181,
+        "card_name": "Fabled Techniques",
+        "number": 185,
         "shape": "normal",
         "set": "SZS"
     },
@@ -517,55 +547,25 @@
     },
     {
         "card_name": "Mythology Expert",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Millaarc Cranstoun",
-        "number": 111,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Leiur, Glinting Coin",
-        "number": 149,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Lydian Harmonist",
-        "number": 187,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Lydian Duoist",
-        "number": 28,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Phara, Sword of Gales",
-        "number": 71,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Noise Capsules",
-        "number": 113,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Makyu-u Ichaival",
-        "number": 151,
+        "card_name": "Meteor Light",
+        "number": 115,
         "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "Noise Devastator",
-        "number": 189,
+        "card_name": "Makyu-u Ichaival",
+        "number": 154,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Harmony of Clasped Hands",
+        "number": 187,
         "shape": "normal",
         "set": "SZS"
     },
@@ -576,26 +576,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Recycled Alcanoise",
+        "card_name": "Phara, Sword of Gales",
         "number": 72,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Orion Leyline",
-        "number": 114,
+        "card_name": "Millaarc Cranstoun",
+        "number": 116,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Megadeth Stance",
-        "number": 152,
+        "number": 155,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Okonomiyaki Vendor",
-        "number": 190,
+        "card_name": "Lydian Harmonist",
+        "number": 193,
         "shape": "normal",
         "set": "SZS"
     },
@@ -606,26 +606,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Scion of Balal",
-        "number": 76,
+        "card_name": "Recycled Alcanoise",
+        "number": 73,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Ressou Gungnir",
-        "number": 116,
-        "shape": "saga",
+        "card_name": "Noise Capsules",
+        "number": 118,
+        "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Phonic Backlash",
-        "number": 154,
+        "number": 157,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Ride or Die",
-        "number": 193,
+        "card_name": "Noise Devastator",
+        "number": 195,
         "shape": "normal",
         "set": "SZS"
     },
@@ -636,116 +636,176 @@
         "set": "SZS"
     },
     {
-        "card_name": "SONG Quartermaster",
-        "number": 77,
+        "card_name": "Scion of Balal",
+        "number": 76,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Shambling Relic",
+        "card_name": "Orion Leyline",
         "number": 119,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Phonic Reverberation",
-        "number": 155,
+        "number": 158,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Strength of Seven Worlds",
+        "card_name": "Okonomiyaki Vendor",
         "number": 196,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Tomosato Aoi",
-        "number": 41,
+        "card_name": "Sonnet Yukine",
+        "number": 39,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "These Insufficient Words",
-        "number": 81,
+        "card_name": "SONG Quartermaster",
+        "number": 77,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Shito-o -Ewigkeit-",
-        "number": 120,
+        "card_name": "Ressou Gungnir",
+        "number": 121,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Pyrotechnics on Wings",
-        "number": 157,
+        "number": 160,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "True Strength",
-        "number": 201,
+        "card_name": "Ride or Die",
+        "number": 200,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Unshakeable Resolve",
+        "card_name": "Stephan Virena",
+        "number": 42,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "These Insufficient Words",
+        "number": 82,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Shambling Relic",
+        "number": 123,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Relic Shrapnel",
+        "number": 162,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Strength of Seven Worlds",
+        "number": 203,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Tomosato Aoi",
         "number": 43,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Variable Saw Style",
-        "number": 84,
+        "number": 86,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Special Monster Blood",
-        "number": 121,
+        "card_name": "Shito-o -Ewigkeit-",
+        "number": 124,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Sonia Virena",
+        "number": 163,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Relic Shrapnel",
-        "number": 160,
+        "card_name": "True Strength",
+        "number": 209,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Tune of Remembrance",
-        "number": 202,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "A Wall...",
-        "number": 44,
+        "card_name": "Unshakeable Resolve",
+        "number": 45,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Zetto Ame no Habakiri",
-        "number": 85,
+        "number": 87,
         "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "tomorrow",
-        "number": 123,
-        "shape": "saga",
+        "card_name": "Special Monster Blood",
+        "number": 125,
+        "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Stained Glance",
-        "number": 162,
+        "number": 165,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Tune of Remembrance",
+        "number": 210,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "A Wall...",
+        "number": 46,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Autoscorer Prototype",
+        "number": 49,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "tomorrow",
+        "number": 127,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Yukine Masanori",
+        "number": 171,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Waikyo-o Shen Shou Jing",
-        "number": 204,
+        "number": 212,
         "shape": "saga",
         "set": "SZS"
     },
@@ -756,26 +816,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Autoscorer Prototype",
-        "number": 46,
+        "card_name": "Custodian Probe",
+        "number": 51,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Alkanoise Dissector",
-        "number": 88,
+        "number": 90,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Annunaki Guardian",
-        "number": 127,
+        "number": 131,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Alchemancery Guard",
-        "number": 166,
+        "number": 172,
         "shape": "normal",
         "set": "SZS"
     },
@@ -786,26 +846,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Cancel",
-        "number": 47,
+        "card_name": "Damaging Lesson",
+        "number": 52,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Boon of Shem-Ha",
-        "number": 92,
+        "number": 94,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Annunaki Turret",
-        "number": 128,
+        "number": 132,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Alchemical Dissolution",
-        "number": 167,
+        "number": 173,
         "shape": "normal",
         "set": "SZS"
     },
@@ -816,26 +876,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Custodian Probe",
-        "number": 49,
+        "card_name": "Duo Parry",
+        "number": 55,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Carol's Hallsweeper",
-        "number": 93,
+        "number": 95,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Billion Maiden",
-        "number": 131,
+        "number": 135,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Alkanoise Duo",
-        "number": 169,
+        "number": 175,
         "shape": "normal",
         "set": "SZS"
     },
@@ -846,26 +906,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Damaging Lesson",
-        "number": 50,
+        "card_name": "Fragment Filcher",
+        "number": 60,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Costly Plunder",
-        "number": 97,
+        "number": 99,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Cathartic Reunion",
-        "number": 132,
+        "number": 136,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Burdened Wings",
-        "number": 172,
+        "number": 178,
         "shape": "normal",
         "set": "SZS"
     },
@@ -876,26 +936,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Duo Parry",
-        "number": 53,
+        "card_name": "Glide Gear",
+        "number": 63,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Devil's Peace",
-        "number": 98,
+        "number": 100,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Cracked Heart",
-        "number": 133,
+        "number": 137,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Desperate Edge",
-        "number": 175,
+        "number": 181,
         "shape": "normal",
         "set": "SZS"
     },
@@ -906,26 +966,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Fragment Filcher",
-        "number": 58,
+        "card_name": "Harmonic Ward Sentinel",
+        "number": 64,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Devouring Alkanoise",
-        "number": 99,
+        "number": 101,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Flame Lash",
-        "number": 137,
+        "number": 141,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Elephantine Resonance",
-        "number": 177,
+        "number": 183,
         "shape": "normal",
         "set": "SZS"
     },
@@ -936,56 +996,56 @@
         "set": "SZS"
     },
     {
-        "card_name": "Glide Gear",
-        "number": 61,
+        "card_name": "Installation Sentinel",
+        "number": 66,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "FIS Intern",
-        "number": 100,
+        "number": 104,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Full-Throttle Tune",
-        "number": 138,
+        "number": 142,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Friendly Youth",
-        "number": 180,
+        "number": 186,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Maria's Serenade",
-        "number": 30,
+        "number": 29,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Harmonic Ward Sentinel",
-        "number": 62,
+        "card_name": "Lydian Professor",
+        "number": 68,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Grasp of Babylonia",
-        "number": 102,
+        "number": 106,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Fushicho-o no Flamme",
-        "number": 139,
+        "number": 143,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Humming Harmonizer",
-        "number": 183,
+        "number": 189,
         "shape": "normal",
         "set": "SZS"
     },
@@ -996,26 +1056,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Installation Sentinel",
-        "number": 64,
+        "card_name": "Negate",
+        "number": 70,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Harmonic Edge",
-        "number": 103,
+        "number": 107,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Gear Ignition",
-        "number": 140,
+        "number": 144,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Leaping Friend",
-        "number": 186,
+        "number": 192,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1026,26 +1086,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Lydian Professor",
-        "number": 67,
+        "card_name": "Relic Feeder",
+        "number": 74,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Illuminati Test Subject",
-        "number": 105,
+        "number": 109,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Genchaku Denko-o Keiji Ban",
-        "number": 142,
+        "number": 146,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Resounding Strength",
-        "number": 192,
+        "number": 199,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1056,26 +1116,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Negate",
-        "number": 69,
+        "card_name": "Relic of Rhythm",
+        "number": 75,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Koi no Okehazama",
-        "number": 107,
+        "number": 111,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Idol's Clique",
-        "number": 147,
+        "number": 150,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Song Eater",
-        "number": 194,
+        "number": 201,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1086,26 +1146,26 @@
         "set": "SZS"
     },
     {
-        "card_name": "Relic Feeder",
-        "number": 73,
+        "card_name": "Surveilance Relic",
+        "number": 80,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Menacing Vibe",
-        "number": 110,
+        "number": 114,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Lydian Recruiter",
-        "number": 150,
+        "number": 153,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Stroganoff Clique",
-        "number": 197,
+        "number": 204,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1116,106 +1176,85 @@
         "set": "SZS"
     },
     {
-        "card_name": "Relic of Rhythm",
-        "number": 74,
+        "card_name": "Touch of Shem-Ha",
+        "number": 83,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Refrain",
-        "number": 115,
+        "number": 120,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Relic Plunderer",
-        "number": 159,
+        "card_name": "Talent Show Announcer",
+        "number": 166,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Surge of Heart",
-        "number": 198,
+        "number": 205,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Special Disaster Victim",
-        "number": 39,
+        "number": 40,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Run Ashore",
-        "number": 75,
+        "card_name": "Trapped by Distance",
+        "number": 84,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Screaming Anguish",
-        "number": 117,
+        "number": 122,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Todoke Happy Uta Zukin",
-        "number": 163,
+        "number": 167,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Training Montage",
-        "number": 200,
+        "number": 208,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Twin Heart Execution",
-        "number": 42,
+        "number": 44,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "Surveilance Relic",
-        "number": 80,
-        "shape": "normal",
-        "set": "SZS"
+        "card_name": "e"
     },
     {
         "card_name": "Wing-Blade Alkanoise",
-        "number": 125,
+        "number": 129,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Wrecking Gear",
-        "number": 164,
+        "number": 169,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Tune of the World",
-        "number": 203,
+        "number": 211,
         "shape": "normal",
         "set": "SZS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Trapped by Distance",
-        "number": 82,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1232,61 +1271,61 @@
     "a->gold",
     {
         "card_name": "Elfnein, Scion of Carol",
-        "number": 211,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Adam Weishaupt",
-        "number": 207,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Cagliostro, Feminine Impact",
-        "number": 208,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Kazanari Genjuro",
         "number": 220,
         "shape": "normal",
         "set": "SZS"
     },
     {
+        "card_name": "Adam Weishaupt",
+        "number": 215,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Swan Song of the Valkyrie",
+        "number": 244,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Kazanari Genjuro",
+        "number": 230,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
         "card_name": "Tachibana Hibiki",
-        "number": 233,
+        "number": 246,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Symphonic Unison",
-        "number": 232,
+        "number": 245,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Garie, Rotten Grail",
-        "number": 212,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Micha, Blazing Rod",
         "number": 223,
         "shape": "normal",
         "set": "SZS"
     },
     {
+        "card_name": "Cagliostro, Feminine Impact",
+        "number": 217,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
         "card_name": "Zenbu Clique",
-        "number": 237,
+        "number": 250,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Kazanari Yatsuhiro",
-        "number": 222,
+        "number": 232,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1297,16 +1336,37 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "The Nehushtan",
+        "number": 235,
+        "shape": "normal",
+        "set": "SZS"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Izaak Dienheim",
-        "number": 218,
+        "number": 228,
         "shape": "normal",
         "set": "SZS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Micha, Blazing Rod",
+        "number": 233,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1325,87 +1385,69 @@
     },
     {
         "card_name": "What it Sounds Like",
-        "number": 235,
+        "number": 248,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Ryoko Sakurai",
-        "number": 228,
+        "number": 239,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Carol Malus Dienheim",
-        "number": 209,
+        "number": 218,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "The X-Drive",
-        "number": 236,
+        "number": 249,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Prelati, Alchemist Architect",
-        "number": 226,
+        "number": 237,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Kazanari Fudou",
-        "number": 219,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Vanessa Diodati",
-        "number": 234,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Arigato-o wo Utai Nagara",
-        "number": 206,
-        "shape": "saga",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Glorious Break",
-        "number": 213,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Golden Transmutation",
-        "number": 214,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Nastassja Sergeyevna Tolstaya",
-        "number": 224,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Saint Germain",
         "number": 229,
         "shape": "normal",
         "set": "SZS"
     },
     {
-        "card_name": "e"
+        "card_name": "Vanessa Diodati",
+        "number": 247,
+        "shape": "normal",
+        "set": "SZS"
     },
     {
-        "card_name": "e"
+        "card_name": "Arigato-o wo Utai Nagara",
+        "number": 214,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Saint Germain",
+        "number": 240,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Golden Transmutation",
+        "number": 224,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Nastassja Sergeyevna Tolstaya",
+        "number": 234,
+        "shape": "normal",
+        "set": "SZS"
     },
     {
         "card_name": "e"
@@ -1415,7 +1457,7 @@
     },
     {
         "card_name": "Itaba Yumi",
-        "number": 217,
+        "number": 227,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1438,52 +1480,124 @@
         "card_name": "er"
     },
     {
-        "card_name": "Hanasaku Yu-uki GOLD",
-        "number": 216,
-        "shape": "transform double faced",
+        "card_name": "Sforzando No Zankyo-o",
+        "number": 243,
+        "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "Kazanari Tsubasa",
+        "card_name": "Final Commander",
         "number": 221,
-        "shape": "normal",
+        "shape": "saga",
         "set": "SZS"
+    },
+    {
+        "card_name": "FOR THE FUTURE",
+        "number": 222,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Hanasaku Yu-uki GOLD",
+        "number": 226,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Ashita e no Flugel",
+        "number": 216,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
     },
     {
         "card_name": "Change The Future",
-        "number": 210,
+        "number": 219,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Hajimari no Babel",
-        "number": 215,
-        "shape": "saga",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Radiant Force",
-        "number": 227,
-        "shape": "saga",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Senkin Dur de Bla",
-        "number": 230,
+        "number": 225,
         "shape": "saga",
         "set": "SZS"
     },
     {
         "card_name": "Senritsu Sorority",
-        "number": 231,
+        "number": 242,
         "shape": "saga",
         "set": "SZS"
     },
     {
-        "card_name": "Perfect Symphony",
-        "number": 225,
+        "card_name": "Kazanari Tsubasa",
+        "number": 231,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Senkin Dur de Bla",
+        "number": 241,
         "shape": "saga",
         "set": "SZS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Radiant Force",
+        "number": 238,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Perfect Symphony",
+        "number": 236,
+        "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1511,9 +1625,21 @@
         "set": "SZS"
     },
     {
+        "card_name": "Durendal Complete",
+        "number": 253,
+        "shape": "normal",
+        "set": "SZS"
+    },
+    {
         "card_name": "Kyo-oshitsu Monochrome",
         "number": 2,
         "shape": "saga",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Doomsday Calendar",
+        "number": 252,
+        "shape": "normal",
         "set": "SZS"
     },
     {
@@ -1524,19 +1650,19 @@
     },
     {
         "card_name": "Instant Ramen",
-        "number": 239,
+        "number": 254,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Projectile Noise",
-        "number": 242,
+        "number": 256,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "SONG Submarine",
-        "number": 244,
+        "number": 258,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1548,30 +1674,21 @@
     },
     {
         "card_name": "Coordination Radio",
-        "number": 238,
+        "number": 251,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Network Terminal",
-        "number": 240,
-        "shape": "normal",
-        "set": "SZS"
-    },
-    {
-        "card_name": "Phasing Noise",
-        "number": 241,
+        "number": 255,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "RN-Type Armor",
-        "number": 243,
+        "number": 257,
         "shape": "normal",
         "set": "SZS"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1599,31 +1716,31 @@
     },
     {
         "card_name": "Security Headquarters",
-        "number": 251,
+        "number": 265,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Concert Stadium",
-        "number": 247,
+        "number": 261,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Chateau Ruins",
-        "number": 245,
+        "number": 259,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Music Academy Grounds",
-        "number": 249,
+        "number": 263,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Moon Shrine",
-        "number": 248,
+        "number": 262,
         "shape": "normal",
         "set": "SZS"
     },
@@ -1643,25 +1760,28 @@
         "card_name": "er"
     },
     {
+        "card_name": "Yggdrasil Sprouting Site",
+        "number": 267,
+        "shape": "transform double faced",
+        "set": "SZS"
+    },
+    {
         "card_name": "Section 2 HQ",
-        "number": 250,
+        "number": 264,
         "shape": "transform double faced",
         "set": "SZS"
     },
     {
         "card_name": "Command Bridge",
-        "number": 246,
+        "number": 260,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Terramorphic Expanse",
-        "number": 252,
+        "number": 266,
         "shape": "normal",
         "set": "SZS"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1683,33 +1803,73 @@
     },
     {
         "card_name": "Plains",
-        "number": 253,
+        "number": 268,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Island",
-        "number": 254,
+        "number": 269,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Swamp",
-        "number": 255,
+        "number": 270,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Mountain",
-        "number": 256,
+        "number": 271,
         "shape": "normal",
         "set": "SZS"
     },
     {
         "card_name": "Forest",
-        "number": 257,
+        "number": 272,
         "shape": "normal",
         "set": "SZS"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Citizen",
+        "number": 1,
+        "shape": "token",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Noise",
+        "number": 2,
+        "shape": "token",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Food",
+        "number": 4,
+        "shape": "token",
+        "set": "SZS"
+    },
+    {
+        "card_name": "Artificer",
+        "number": 3,
+        "shape": "token",
+        "set": "SZS"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
