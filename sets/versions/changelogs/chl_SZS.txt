@@ -1,4 +1,1288 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+No changes.
+
+VERSION 3 CHANGELOG
+====================
+
+Surveilance Screen added.
+Carol's Hall Monitor added.
+Val Verde Croc added.
+Humming Vocalist added.
+Rail Assault Noise added.
+Illuminati Alcadispensor added.
+Relic Archaeologist added.
+Alchemists Eye added.
+Inflammatory Clique added.
+Tempo Gear added.
+The Gjallarhorn added.
+Regilord, Heir of Aegis added.
+May, Chosen of Zababa added.
+Val, Silver Handed added.
+Echola, Queen of Mimicry added.
+Ashe, Grave Revolutionary added.
+Cinatha, Blazing Caliber added.
+Xin, Adversity's Scion added.
+Locke, Manifold added.
+Va'srit, Archpriest of Adversity added.
+Lyn, Martyr of Section Two added.
+Hibiki, Host of Gungnir added.
+Gungnir, the Piercing Spear added.
+Amou Kanade added.
+Little Miracle -Grip it tight- added.
+Construct added.
+Construct added.
+Noise added.
+Treasure added.
+Noise added.
+Citizen added.
+Citizen added.
+Citizen added.
+Food added.
+Food added.
+Food added.
+Food added.
+Treasure added.
+Treasure added.
+Treasure added.
+Missile added.
+Dividing Alkanoise added.
+Detective added.
+Wall added.
+
+Surveilance Relic removed.
+Carol's Hallsweeper removed.
+Alchemancery Guard removed.
+Humming Harmonizer removed.
+Harmonic Valkyrie removed.
+Illuminati Supplier removed.
+Mythology Expert removed.
+Alchemical Viewscreen removed.
+Inflamatory Clique removed.
+
+Lydian Choral Student
+
+Special Disaster Victim
+
+Avid Fan
+
+Bestie Brawler
+
+Disaster Officer
+
+Sentinel's Gear
+
+SONG Insertion Pilot
+rules_text: Flying
+[i]Flank [/i]— When you attack with one other creature, give that creature flying until end of turn. => Flying
+[i]Flank [/i]— When SONG Insertion Pilot attacks with one other creature, give that creature flying until end of turn.
+
+Maria's Serenade
+
+Dreadful Silence
+
+Twin Heart Execution
+
+Phonic Gains
+
+Moral Failing
+
+Custodian Probe
+
+Autoscorer Prototype
+
+Glide Gear
+rules_text: When Glide Gear enters, attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Equipped creature gets +1/+0 and flying
+Equip {5} => When Glide Gear enters, attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Equipped creature gets +1/+0 and has flying during your turn.
+Equip {5}
+
+Lydian Professor
+pt: 2/2 => 2/3
+
+Relic of Rhythm
+
+Fragment Filcher
+rules_text: [i]Flank [/i]— Fragment Filcher can't be blocked it it attacked with one other creature this turn.
+When Fragment Filcher deals combat damage to a player, create a tapped treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => [i]Flank [/i]— Fragment Filcher can't be blocked if it attacked with one other creature this turn.
+When Fragment Filcher deals combat damage to a player, create a tapped treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+pt: 2/3 => 2/4
+
+Installation Sentinel
+rules_text: Flying
+When Installation Sentinel enters or dies, create a treasure token [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Flying
+When Installation Sentinel enters or dies, create a treasure token [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Relic Feeder
+pt: 5/7 => 7/7
+
+Harmonic Ward Sentinel
+
+Touch of Shem-Ha
+rules_text: Counter target spell. Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Counter target spell. Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Negate
+
+Trapped by Distance
+
+Damaging Lesson
+
+Duo Parry
+rules_text: Target creature gets -4/-0 until end of turn. If you attacked with two creatures this turn, draw a card. => Target creature gets -4/-0 until end of turn. If you attacked with exactly two creatures this turn, draw a card.
+
+Alkanoise Dissector
+
+FIS Intern
+rules_text: When a historic permanent enters under your control, each opponent loses 1 life. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Whenever you cast a historic permanent, each opponent loses 1 life. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+Illuminati Test Subject
+
+Wing-Blade Alkanoise
+rules_text: Flying
+Wing-Blade Alkanoise gets +1/+0 as long as you control at least two other artifacts. => Flying
+{B}, Sacrifice another artifact: Wing-Blade Alkanoise gets +1/+0 until end of turn.
+pt: 2/1 => 2/3
+
+Menacing Vibe
+
+Devouring Alkanoise
+
+Grasp of Babylonia
+
+Boon of Shem-Ha
+
+Harmonic Edge
+
+Costly Plunder
+
+Refrain
+
+Devil's Peace
+
+Talent Show Announcer
+
+Annunaki Turret
+
+Wrecking Gear
+rules_text: When Wrecking Gear enters, attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Equipped creature gets +2/+0 and has trample.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Wrecking Gear enters, attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Equipped creature gets +2/+0 and has trample.
+Equip {4} [i]({4}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Idol's Clique
+
+Lydian Recruiter
+type: Creature — Human Artificer => Creature — Human Advisor
+
+Full-Throttle Tune
+
+Annunaki Guardian
+pt: 5/6 => 7/5
+
+Flame Lash
+
+Billion Maiden
+
+Cathartic Reunion
+
+Gear Ignition
+
+Cracked Heart
+rules_text: Choose one —
+*Destroy target artifact
+*Target creature attacks this turn if able. => Choose one —
+• Destroy target artifact
+• Target creature attacks this turn if able.
+
+Friendly Youth
+
+Stroganoff Clique
+
+Tune of the World
+
+Song Eater
+
+Alkanoise Duo
+
+Leaping Friend
+
+Elephantine Resonance
+
+Desperate Edge
+
+Surge of Heart
+
+Resounding Strength
+
+Training Montage
+
+Burdened Wings
+
+Alchemical Dissolution
+
+Stephan Virena
+
+Resonant Duelist
+type: Creature — Human Warrior Citizen => Creature — Human Knight Citizen
+
+Friendship Bracelet
+rules_text: When Friendship Bracelet enters, it attunes twice.
+[i]Flank [/i]— When you attack with two creatures, equipped creature gets +1/+1 until end of turn for each other creature you control.
+{5}{W}{W}: Attune. Activate only as a sorcery. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i] => When Friendship Bracelet enters, it attunes twice.
+[i]Flank [/i]— When you attack with two creatures, the equipped creature gets +1/+1 until end of turn for each other creature you control.
+{5}{W}{W}: Attune. Activate only as a sorcery. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+
+Caring Teammate
+
+Silencing Noise
+
+Convention Superfan
+rules_text: When an enchantment enters or a saga you control goes to the graveyard from the battlefield, put a +1/+1 counter on target creature you control. => Whenever an enchantment you control enters or a saga you control goes to the graveyard from the battlefield, put a +1/+1 counter on target creature you control.
+
+Tomosato Aoi
+rules_text: When Tomosato Aoi enters, create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Lifelink => When Tomosato Aoi enters, create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Lifelink
+
+Heavenly Arts
+rules_text: Tiered [i](Choose one additional cost.)[/i]
+• [i]Azure Flash[/i] — {0} — Heavenly Arts deals 3 damage to target attacking creature.
+• [i]Thousand Falling Tears [/i]— {2} — Heavenly Arts deals 1 damage to each tapped creature.
+• [i]Celestial Blade's Judgement [/i]— {4}{W} — Heavenly Arts deals 3 damage to each tapped creature target player controls. => Tiered [i](Choose one additional cost.)[/i] [i](Choose one additional cost.)[/i]
+• [i]Azure Flash[/i] — {0} — Heavenly Arts deals 3 damage to target attacking creature.
+• [i]Thousand Falling Tears [/i]— {2} — Heavenly Arts deals 1 damage to each tapped creature target player controls.
+• [i]Celestial Blade's Judgement [/i]— {4}{W} — Heavenly Arts deals 3 damage to each tapped creature target player controls.
+
+A Wall...
+
+Ethereal Armor
+
+Philosophical Labyrinth
+
+Unshakeable Resolve
+
+SONG Quartermaster
+
+Fear of Isolation
+
+Feedback Gear
+rules_text: When Feedback Gear enters, attune.
+Equipped creature gets +2/+1 and “when this creature attacks, target creature defending player controls gets -3/-0 until end of turn.”
+Equip {5}. => When Feedback Gear enters, attune.
+Equipped creature gets +2/+1 and “when this creature attacks, target creature defending player controls gets -3/-0 until end of turn.”
+Equip {5}
+
+Recycled Alcanoise
+
+Scion of Balal
+rules_text: Ward {2}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Scion of Balal or another artifact or noise creature enters under your control, target player mills four card. => Ward {2}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Scion of Balal or another artifact or noise creature enters under your control, target player mills three cards.
+
+Phara, Sword of Gales
+rules_text: Phara can't be blocked by equipped creatures.
+[i]Flank[/i] — When Phara attacks with one other creature, you may discard a card, if you do, draw a card. => Phara can't be blocked by equipped creatures.
+[i]Flank[/i] — When Phara attacks with one other creature, you may draw a card, if you do, discard a card.
+
+Disdainful Stroke
+
+Duo Training
+rules_text: Draw two cards. If you attacked with two creatures this turn, put a +1/+1 counter on each of them. => Draw two cards. If you attacked with exactly two creatures this turn, put a +1/+1 counter on each of them.
+
+These Insufficient Words
+
+Emergency Withdraw
+cost: {4}{U}{U} => {5}{U}{U}
+
+Variable Saw Style
+rules_text: Tiered [i](Choose one additional cost.)[/i]
+• [i]Alpha 100 Samsara[/i] — {1} — Tap target creature and put a stun counter on it.
+• [i]Beta Giant Saw Judgment[/i] — {2} — Put three stun counters on target creature.
+• [i]Omega Linked Light Slash[/i] — {3}{U} — Tap each creature target player controls and put a stun counter on each of them. => Tiered [i](Choose one additional cost.)[/i] [i](Choose one additional cost.)[/i]
+• [i]Alpha 100 Samsara[/i] — {1} — Tap target creature and put a stun counter on it.
+• [i]Beta Giant Saw Judgment[/i] — {2} — Put three stun counters on target creature.
+• [i]Omega Linked Light Slash[/i] — {3}{U} — Tap each creature target player controls and put a stun counter on each of them.
+
+Direct Feedback Programmer
+
+Shambling Relic
+rules_text: Shambling Relic enters tapped
+{1}{B}: Return Shambling Relic to the battlefield. Activate only if another historic permanent left the battlefield this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Shambling Relic enters tapped
+{1}{B}: Return Shambling Relic to the battlefield. Activate only if another historic permanent left the battlefield under your control this turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+FIS Taskmaster
+
+Chateau Defense Systems
+cost: {2}{B} => {3}{B}
+rules_text: You may have Chateau Defense Systems enter as a copy of an artifact or creature a graveyard except it has “if this creature becomes the target of a spell, sacrifice it” => You may have Chateau Defense Systems enter as a copy of an artifact or creature in a graveyard except it has “if this creature becomes the target of a spell, sacrifice it”
+pt: 1/1 => 3/2
+
+Lydian Class President
+cost: {3}{B} => {2}{B}
+pt: 1/4 => 1/3
+
+Alchemist's Folly
+
+Ancient Resonist
+
+Millaarc Cranstoun
+rules_text: Menace
+Whenever you sacrifice an artifact or creature you control, put a +1/+1 counter on Millaarc Cranstoun.
+{3}{B}, Sacrifice a creature or artifact: Millaarc Cranstoun gains lifelink until end of turn. This ability costs {1} less to activate for each counter on her. => Menace
+Whenever you sacrifice an artifact or creature you control, put a +1/+1 counter on Millaarc Cranstoun.
+{3}{B}, Sacrifice a creature or artifact: Millaarc Cranstoun gains flying and lifelink until end of turn. This ability costs {1} less to activate for each counter on her.
+
+Noise Capsules
+cost: {B} => {1}{B}
+
+Orion Leyline
+
+Special Monster Blood
+
+LiNKER
+
+Infinity Gambits
+rules_text: Tiered [i](Choose one additional cost.)[/i]
+• [i]Stardust Foton[/i] — {1} — Creatures get -1/-1 until end of turn.
+•[i] Last Meteor[/i] — {2} — Creatures get -2/-2 until end of turn.
+• [i]Kanade's[/i] [i]Climax Song[/i] — {2}{B} — Creatures get -3/-3 until end of turn. => Tiered [i](Choose one additional cost.)[/i] [i](Choose one additional cost.)[/i]
+• [i]Stardust Foton[/i] — {1} — Creatures get -1/-1 until end of turn.
+• [i] Last Meteor[/i] — {2} — Target player sacrifices a creature. Draw a card.
+• [i]Kanade's[/i] [i]Climax Song[/i] — {2}{B}{B} — Creatures get -3/-3 until end of turn. Create a Treasure token
+
+Expanding Gear
+
+Leiur, Glinting Coin
+rules_text: Trample
+When Leiur, Glinting Coin enters, choose one —
+• Leiur deals 2 damage to target creature.
+• Destroy target artifact. => Trample
+When Leiur, Glinting Coin enters, choose one —
+• Leiur deals 2 damage to target creature.
+• Destroy target artifact.
+• Create a treasure token
+
+Pyrotechnics on Wings
+rules_text: Flying
+{4}{R}{R}: Return Pyrotechnics on Wings to the battlefield. Support 2. Activate only if you control three or more enchantments and/or legendary creatures. [i](To support 2, put a +1/+1 counter on each of up to two other target creatures.)[/i] => When Pyrotechnics on Wings enters, support 2.
+Flying
+{4}{R}{R}: Return Pyrotechnics on Wings from the graveyard to the battlefield. Support 2. three or more enchantments and/or legendary creatures. [i](To support 2, put a +1/+1 counter on each of up to two other target creatures.)[/i]
+
+Sonia Virena
+cost: {2}{R} => {1}{R}
+pt: 2/3 => 1/3
+
+Disasterous Faust Robe
+rules_text: When Disasterous Faust Robe enters, it deals 3 damage to target creature.
+{4}{R}{R}: Attune. Activate this ability only when you could play a sorcery. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Equipped creature gets +3/+1 => When Disasterous Faust Robe enters, it deals 3 damage to target creature.
+{4}{R}{R}: Attune. Activate this ability only when you could cast a sorcery. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Equipped creature gets +3/+1
+
+Phonic Backlash
+
+Relic Shrapnel
+rules_text: Flash
+When Relic Shrapnel enters, it deals two damage to any target. => Flash
+When Relic Shrapnel enters, it deals 2 damage to any target.
+
+Phonic Reverberation
+rules_text: When you cast Phonic Reverberation create a copy of it.
+{1}{R}, Sacrifice Phonic Reverberation: When you next cast an enchantment spell this turn, copy it. => When you cast Phonic Reverberation create a copy of it.
+{1}{R}, Sacrifice Phonic Reverberation: When you next cast an enchantment spell this turn, copy it. [i](A copy of a permanent becomes a token)[/i]
+
+Stained Glance
+
+Megadeth Stance
+rules_text: Tiered [i](Choose one additional cost.)[/i]
+• [i]Megadeth Fuga[/i] — {0} — Megadeth Stance deals 1 damage to each of up to two creatures.
+• [i]Megadeth Party[/i] — {2} — Megadeth Stance deals 1 damage to target player and each creature they control.
+• [i]Megadeth Infinity[/i] — {5}{R} — Megadeth Stance deals 7 damage divided among any number of target creatures. => Tiered [i](Choose one additional cost.)[/i] [i](Choose one additional cost.)[/i]
+• [i]Megadeth Fuga[/i] — {0} — Megadeth Stance deals 1 damage to each of up to two target creatures.
+• [i]Megadeth Party[/i] — {2} — Megadeth Stance deals 1 damage to target player and each creature they control.
+• [i]Megadeth Infinity[/i] — {5}{R} — Megadeth Stance deals 7 damage divided among any number of target creatures.
+
+Okonomiyaki Vendor
+rules_text: Whenever Okonomiyaki Vendor or another citizen enters under your control, create a food token.
+{2}{G}, {T}, sacrifice a food token: Support 2. Activate only as a sorcery. [i](To support 2, put a +1/+1 counter on each of up to two other target creatures.)[/i] => Whenever Okonomiyaki Vendor or one or more other citizens enters under your control, create a food token.
+{2}{G}, {T}, sacrifice a food token: Support 2. Activate only as a sorcery. [i](To support 2, put a +1/+1 counter on each of up to two other target creatures.)[/i]
+
+Lydian Harmonist
+pt: 1/1 => 1/2
+
+Harmony of Clasped Hands
+
+Elsa Bete
+pt: 2/2 => 2/3
+
+Noise Devastator
+
+True Strength
+
+Alchemist of Extrema
+
+Tune of Remembrance
+
+Bereaved Harmonist
+
+Burgeoning Friendship
+cost: {3}{G} => {2}{G}
+
+Strength of Seven Worlds
+
+Blossoming Courage
+
+Fabled Techniques
+rules_text: Tiered [i](Choose one additional cost.)[/i]
+• [i]Killer Juliet[/i] — {1} — Target creature you control deals damage equal to its power to target creature.
+• [i]Twin Cutter Cinderella[/i] — {1}{G} — Support 1, then that creature deals damage equal to its power to target creature.
+•[i] Wicked Leg: Gulliver[/i] — {3}{G} — Support 2, then those creatures deal damage equal to their power to target creature. => Tiered [i](Choose one additional cost.)[/i] [i](Choose one additional cost.)[/i]
+• [i]Killer Juliet[/i] — {1} — Target creature you control deals damage equal to its power to target creature.
+• [i]Twin Cutter Cinderella[/i] — {1}{G} — Support 1, then that creature deals damage equal to its power to target creature.
+• [i] Wicked Leg: Gulliver[/i] — {3}{G} — Support 2, then those creatures deal damage equal to their power to target creature.
+
+Commune with the World
+
+Ride or Die
+
+Doctor Ver
+
+Fujitaka, Field Analyst
+
+Airgetlam
+rules_text: Flash
+When Airgetlam enters, target creature you control gains indestructible until end of turn, then attune.
+[i]Flank [/i]— When equipped creature attacks with one other creature put a +1/+1 counter on each creature you control
+Equip {3}
+Equip legendary creature {1} => Flash
+When Airgetlam enters, target creature you control gains indestructible until end of turn, then attune.
+[i]Flank [/i]— When equipped creature attacks with one other creature put a +1/+1 counter on each creature you control
+Equip {4}
+Equip legendary creature {2}
+
+Spirit of Serena
+rules_text: When Spirit of Serena enters, attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Enchanted creature has lifelink.
+[i]Apple [/i]— Sacrifice Spirit of Serena: Creatures you control get +1/+1 and have indestructible this turn. => When Spirit of Serena enters, attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+Enchanted creature has lifelink.
+[i]Apple [/i]— Sacrifice Spirit of Serena: Creatures you control get +1/+1 and have indestructible until end of turn.
+
+FIS Simulation Room
+rules_text: At the beginning of your end step, support X, where X is the number of tapped creatures you control. [i](To support X, put a +1/+1 counter on each of up to X target creatures.)[/i]
+{3}{W}: Prevent all combat damage that would be dealt this turn => At the beginning of your end step, support X, where X is the number of tapped creatures you control. [i](To support X, put a +1/+1 counter on each of up to X target creatures.)[/i]
+{3}{W}{W}: Prevent all combat damage that would be dealt this turn
+
+Ogawa Shinji
+rules_text: [i]Flank [/i]— When Ogawa Shinji attacks with one other creature, draw a card.
+When Ogawa Shinji becomes the target of a spell or ability, return him to his owners hand. => [i]Flank [/i]— When Ogawa Shinji attacks with one other creature, draw a card.
+When Ogawa Shinji becomes the target of a spell, return him to his owners hand.
+
+Ame No Habakiri
+
+Spirit of Carol
+
+Subspace Noise
+
+The Cane of Solomon
+
+The Lunar Ruins
+
+The Nephilim
+type: Legendary Artifact Creature — Monster => Legendary Artifact Creature — Nephilim
+
+Carrier Type Noise
+rules_text: Flying
+When Carrier Type Noise enters or attacks create two 1/1 colorless noise creature tokens => Flying
+When Carrier Type Noise enters or attacks create two 1/1 colorless Noise creature tokens
+
+Chateau di Tiffauges
+cost: {1}{B} => {4}{B}{B}{B}
+rules_text: You may look at the top card of your library at any time
+{T}: Mill a card.
+{1}{B}, {T}: Draw a card and lose 1 life.
+At the beginning of your end step, each player mills X cards, where X is the number of card types among cards in your graveyard. => You may look at the top card of your library any time
+You may play lands and cast spells from the top of your library. If you cast a spell this way, mill X cards where X is twice that card's mana value rather than pay its mana cost.
+{T}, Sacrifice ten historic permanents: Target player mills five cards for each type among cards in your graveyard. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+Spirit of Finé
+
+The Ignite Module
+
+Purified Faust Robe
+
+Spirit of Kanade
+rules_text: When Spirit of Kanade enters, attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+{R}: Modified creatures you control get +1/+0 and have haste until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Spirit of Kanade enters, create a treasure token, then attune. [i](Create a 1/1 colorless Citizen creature token, then attach this permanent to it. If this permanent is an enchantment it becomes an aura with “enchant creature”.)[/i]
+{R}: Modified creatures you control get +1/+0 and have haste until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Ichaival
+cost: {3}{R} => {2}{R}
+rules_text: When Ichaival enters, attune.
+Equipped creature gets +2/+1 and has first strike and reach.
+When equipped creature attacks, until end of turn, whenever a source you control deals damage to a permanent or player, it deals that much damage plus 1.
+Equip {5}
+Equip legendary creature {2} => When Ichaival enters, attune.
+Equipped creature gets +1/+1 and has first strike and reach.
+When equipped creature attacks, until end of turn, whenever a source you control deals damage to a permanent or player, it deals that much damage plus 1.
+Equip {5}
+Equip legendary creature {2}
+
+On Wings of Song
+
+Armor Purge
+
+Tachibana Akira
+cost: {1}{G} => {2}{G}
+rules_text: [i]Heiki Hecchara[/i] —Whenever you lose life, if you're below half your starting life, you gain 1 life.
+Whenever you gain life, support 2. [i](Put a +1/+1 counter on each of up to two other target creatures.)[/i] => [i]Heiki Hecchara[/i] —Whenever you lose life, if you're below half your starting life, you gain 1 life.
+Whenever you gain life for the first time each turn, support 2. [i](Put a +1/+1 counter on each of up to two other target creatures.)[/i]
+pt: 1/1 => 2/1
+
+Moon Shrine Priest
+rules_text: Whenever an enchantment enters under your control choose one —
+• Support 2. [i](Put a +1/+1 counter on each of up to two other target creatures.)[/i]
+• Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+• Draw a card. => Whenever an enchantment enters under your control choose one —
+• Support 2. [i](To support 2, put a +1/+1 counter on each of up to two other target creatures.)[/i]
+• Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+• Draw a card.
+
+Spirit of Saint Germain
+cost: {1}{G} => {2}{G}
+
+Dividing Alkanoise
+cost: {1}{G}{G}{G} => {X}{G}{G}
+rules_text: Dividing Alkanoise enters with a shield counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+When Dividing Alkanoise dies or loses a counter, create two 1/1 colorless Noise creature tokens. => Dividing Alkanoise enters with X +1/+1 counters on it.
+If Dividing Alkanoise would be dealt damage while it has at least two counters, remove half its +1/+1 counters rounded up instead and create a token that is a copy of Dividing Alkanoise with that many counters on it
+pt: 4/4 => 0/0
+
+With Open Hand Extended
+
+Kohinata Miku
+
+Maria Cadenzavna Eve
+rules_text: Flash
+Lifelink
+When Maria Cadenzavna Eve enters, support 2, those creatures get indestructible until end of turn. => Flash
+Lifelink
+When Maria Cadenzavna Eve enters, support 2. They get indestructible until end of turn.
+
+Tsukuyomi Shirabe
+cost: {1}{U} => {3}{U}
+rules_text: Vigilance, prowess
+[i]Flank [/i]— When Tsukuyomi Shirabe attacks with one other creature, target creature gets -X/-0 until end of turn where X is half its power.
+When Tsukuyomi Shirabe deals combat damage to a player, draw a card. => Vigilance, prowess
+[i]Flank [/i]— When Tsukuyomi Shirabe attacks with one other creature, creatures target player controls get -X/-0 until end of turn where X is half their power rounded down.
+When Tsukuyomi Shirabe deals combat damage to a player, draw a card.
+pt: 2/3 => 2/4
+
+Akatsuki Kirika
+rules_text: Menace, deathtouch
+[i]Flank [/i]— When Akatsuki Kirika attacks with one other creature, target creature gets -0/-X until end of turn, where X is half its toughness.
+When Akatsuki Kirika deals combat damage to a player, they discard a card. => Menace, deathtouch
+[i]Flank [/i]— When Akatsuki Kirika attacks with one other creature, creatures target player controls get -0/-X until end of turn where X is half their toughness rounded down.
+When Akatsuki Kirika deals combat damage to a player, they discard a card.
+pt: 3/3 => 3/2
+
+Yukine Chris
+rules_text: When Yukine Chris enters or attacks you may discard a card. If you do Yukine Chris deals 2 damage to target creature
+Whenever you discard a card, exile the top card of your library. You may play it this turn. => When Yukine Chris enters or attacks you may discard a card. If you do, Yukine Chris deals 3 damage to target creature
+Whenever you discard a card, exile the top card of your library. You may play it this turn. Add {R}.
+
+Replication Type Noise
+
+Symphonic Unison
+
+Garie, Rotten Grail
+
+Micha, Blazing Rod
+
+Zenbu Clique
+
+Izaak Dienheim
+
+Nastassja Sergeyevna Tolstaya
+
+Vanessa Diodati
+
+Itaba Yumi
+
+Golden Transmutation
+
+Elfnein, Scion of Carol
+cost: {W}{U} => {1}{W}{U}
+rules_text: Historic permanents cost you {1} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i] [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{7}, {T}: Draw a card. This ability costs {1} less for each other nontoken historic permanent you control => Historic permanents cost you {1} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{7}, {T}: Draw a card. This ability costs {1} less for each other nontoken historic permanent you control
+pt: 1/2 => 1/3
+
+Adam Weishaupt
+
+Cagliostro, Feminine Impact
+
+Kazanari Genjuro
+type: Legendary Creature — Human Monk => Legendary Creature — Human Warrior
+rules_text: Vigilance
+Whenever Kazanari Genjuro attacks, create a 3/3 red Wall creature token that's tapped and attacking. Sacrifice it after combat. => Vigilance
+Whenever Kazanari Genjuro attacks, create a 3/3 red Wall creature token that's tapped and attacking. Sacrifice it at the end of combat.
+pt: 3/3 => 3/5
+
+Kazanari Yatsuhiro
+rules_text: If a source you control would support, support that much plus one.
+Creatures you control with counters on them get +1/+1 and have vigilance. => If a source you control would support, support that much plus one.
+Other creatures you control with counters on them get +1/+1 and have vigilance.
+
+Kazanari Fudou
+
+Ryoko Sakurai
+rules_text: [i]Sakurai Theory[/i] — When Ryoko Sakurai enters, copy target noncreature artifact you control except the copy is an equipment with “When this card enters, attune.”
+Equipped creatures you control get +1/+1 and have protection from Noise. => [i]Sakurai Theory[/i] — When Ryoko Sakurai enters, copy target noncreature artifact you control, except the copy is an equipment with “When this card enters, attune.”
+Equipped creatures you control get +1/+1 and have protection from Noise.
+
+Carol Malus Dienheim
+
+Saint Germain
+
+Prelati, Alchemist Architect
+
+Racing Clique
+
+RN-Type Armor
+
+Coordination Radio
+
+Network Terminal
+
+SONG Submarine
+
+Projectile Noise
+
+Command Bridge
+
+Instant Ramen
+
+Terramorphic Expanse
+
+Security Headquarters
+
+Concert Stadium
+
+Chateau Ruins
+
+Music Academy Grounds
+
+Moon Shrine
+
+The Nehushtan
+
+Shem-Ha Mephorash
+rules_text: Shem-Ha Mephorash and modified creatures you control are all colors.
+Shem-Ha Mephorash isn't a creature unless you control seven or more creatures that are all colors.
+If Shem-Ha would die, you may put her on top of your library instead.
+When you cast Shem-Ha, create a Monster role token for each other creature and attach one to each of those target creatures. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)[/i] => Shem-Ha Mephorash and modified creatures you control are all colors.
+Shem-Ha Mephorash isn't a creature unless you control six or more other creatures that are all colors.
+If Shem-Ha would die, you may put her on top of your library instead.
+When you cast Shem-Ha, create a Monster role token for each other creature and attach one to each of those target creatures. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)[/i]
+Flying
+
+Tachibana Hibiki
+type: Legendary Creature — Human Bard => Legendary Creature — Human Citizen Bard
+rules_text: Trample
+Tachibana Hibiki gets +1/+1 for each counter on other permanents you control.
+[i]Set Harmonics[/i] — {X}{X}{G}{W}: You may discard a saga with mana value X. When you do, create two tokens that are copies of it. => Trample
+Tachibana Hibiki gets +1/+1 for each counter on other permanents you control.
+[i]Set Harmonics[/i] — {X}{X}{G}, Discard a saga with mana value X: Create two tokens that are copies of it.
+
+Kazanari Tsubasa
+cost: {U}{R}{W} => {2}{U}{R}{W}
+pt: 3/3 => 5/5
+
+The X-Drive
+rules_text: Affinity for Sagas [i](This spell costs {1} less to cast for each Saga you control.)[/i]
+When The X-Drive enters return up to seven historic permanents from your graveyard to the battlefield. Equipment you control have ‘equip {0}” this turn.
+Modified creatures you control get +1/+1, flying and haste and are angels in addition to their other types. => Affinity for Sagas [i](This spell costs {1} less to cast for each Saga you control.)[/i]
+When The X-Drive enters return up to seven historic permanents from your graveyard to the battlefield. Equipment you control have ‘equip {0}” this turn.
+Modified creatures you control get +1/+1, and have flying and haste and are angels in addition to their other types.
+
+Finé, Ghost of the Past
+rules_text: When Finé enters draw a card for each historic permanent you control with a different card type.
+{4}{B}{B}, Exile a legendary creature you control: Return Finé to the battlefield from the graveyard. => When Finé enters draw a card for each historic permanent you control with a different card type, then lose that much life.
+{4}{B}{B}, Exile a legendary creature you control: Return Finé to the battlefield from the graveyard.
+
+Durendal Complete
+
+A Place to Call Home
+
+Swan Song of the Valkyrie
+
+Sonnet Yukine
+
+Yukine Masanori
+
+Doomsday Calendar
+
+Crackling Elekleid
+
+Beat of Awakening
+
+Beef Stroganoff No Uta
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 white Citizen creature token
+III — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 colorless Citizen creature token
+II, III — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 white Citizen creature token
+III — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 colorless Citizen creature token
+II, III — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Seiten Galaxy Cross
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Creatures you control gain flying this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Creatures you control gain flying this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Creatures you control gain flying this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Creatures you control gain flying this turn.
+
+Screaming Anguish
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Screaming Anguish becomes a 3/3 black Horror creature with indestructible and haste until end of turn
+III — Each player loses 2 life
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Screaming Anguish becomes a 3/3 black Horror creature with indestructible and haste until end of turn
+III — Each player loses 2 life
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Screaming Anguish becomes a 3/3 black Horror creature with indestructible and haste until end of turn
+III — Each player loses 2 life
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Screaming Anguish becomes a 3/3 black Horror creature with indestructible and haste until end of turn
+III — Each player loses 2 life
+
+Koi no Okehazama
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent loses 1 life and you gain 1 life.
+III — Target creature gets -3/-3 until end of turn
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent loses 1 life and you gain 1 life.
+III — Target creature gets -3/-3 until end of turn
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent loses 1 life and you gain 1 life.
+III — Target creature gets -3/-3 until end of turn
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent loses 1 life and you gain 1 life.
+III — Target creature gets -3/-3 until end of turn
+
+Genchaku Denko-o Keiji Ban
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red Detective creature token.
+II, III — Creatures you control get +1/+0 until end of turn
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red Detective creature token.
+II, III — Creatures you control get +1/+0 until end of turn
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red Detective creature token.
+II, III — Creatures you control get +1/+0 until end of turn
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 red Detective creature token.
+II, III — Creatures you control get +1/+0 until end of turn
+
+Todoke Happy Uta Zukin
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+1 until end of turn
+III — Exile the top card of your library. You may play it this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+1 until end of turn
+III — Exile the top card of your library. You may play it this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+1 until end of turn
+III — Exile the top card of your library. You may play it this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+1 until end of turn
+III — Exile the top card of your library. You may play it this turn.
+
+Fushicho-o no Flamme
+type: Enchantment => Enchantment — Saga
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 1. That creature gets first strike this turn. [i](To support 1, put a +1/+1 counter on each of up to one target creature.)[/i]
+III — Target creature you control fights target creature you don't control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 1. That creature gains first strike this turn. [i](To support 1, put a +1/+1 counter on each of up to one target creature.)[/i]
+III — Target creature you control fights target creature you don't control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 1. That creature gets first strike this turn. [i](To support 1, put a +1/+1 counter on each of up to one target creature.)[/i]
+III — Target creature you control fights target creature you don't control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 1. That creature gains first strike this turn. [i](To support 1, put a +1/+1 counter on each of up to one target creature.)[/i]
+III — Target creature you control fights target creature you don't control.
+
+Lydian Anthem
+
+Hidamari Memoria
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+II — Create two food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+III — At the beginning of your end step, if you gained life this turn, draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+II — Create two food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+III — At the beginning of your end step, if you gained life this turn, draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+II — Create two food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+III — At the beginning of your end step, if you gained life this turn, draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 2. [i](Put a +1/+1 counter on each of up to two target creatures.)[/i]
+II — Create two food tokens. [i](They're artifacts with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+III — At the beginning of your end step, if you gained life this turn, draw a card.
+
+Gekiso-o Gungnir
+
+Zetto Ame no Habakiri
+cost: {1}{U} => {2}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — Creatures you don't control get -1/-0 until the end of your next turn.
+III — Whenever one or more creatures you control deal combat damage to a player this turn, draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — Creatures you don't control get -2/-0 until the end of your next turn.
+III — Whenever one or more creatures you control deal combat damage to a player this turn, draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — Creatures you don't control get -1/-0 until the end of your next turn.
+III — Whenever one or more creatures you control deal combat damage to a player this turn, draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Tap target creature and put three stun counters on it.
+II — Creatures you don't control get -2/-0 until the end of your next turn.
+III — Whenever one or more creatures you control deal combat damage to a player this turn, draw a card.
+
+Shito-o -Ewigkeit-
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create three 2/2 blue artificer creature token
+III, IV — Sacrifice an artifact or creature you control. Target opponent may sacrifice a creature they control. If they don't you draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Create three 2/2 blue artificer creature token
+II, III, IV — Sacrifice an artifact or creature you control. Target opponent may sacrifice a creature they control. If they don't you draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create three 2/2 blue artificer creature token
+III, IV — Sacrifice an artifact or creature you control. Target opponent may sacrifice a creature they control. If they don't you draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Create three 2/2 blue artificer creature token
+II, III, IV — Sacrifice an artifact or creature you control. Target opponent may sacrifice a creature they control. If they don't you draw a card.
+
+Meteor Light
+
+tomorrow
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill three cards. You may exile a card from your graveyard if you do, you gain 3 life.
+III — You may exile a card from your graveyard. If an enchantment is exiled this way, you may cast it this turn. Otherwise, creature a treasure token.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill three cards. You may exile a card from your graveyard. If you do, you gain 3 life.
+II, III — You may exile a card from your graveyard. If an enchantment is exiled this way, you may cast it this turn. Otherwise, create a treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill three cards. You may exile a card from your graveyard if you do, you gain 3 life.
+III — You may exile a card from your graveyard. If an enchantment is exiled this way, you may cast it this turn. Otherwise, creature a treasure token.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill three cards. You may exile a card from your graveyard. If you do, you gain 3 life.
+II, III — You may exile a card from your graveyard. If an enchantment is exiled this way, you may cast it this turn. Otherwise, create a treasure token.
+
+Ressou Gungnir
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+0 and gains indestructible until end of turn.
+III — Draw two cards and lose 2 life.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+0 and gains indestructible until end of turn.
+III — You draw two cards and lose 2 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+0 and gains indestructible until end of turn.
+III — Draw two cards and lose 2 life.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+0 and gains indestructible until end of turn.
+III — You draw two cards and lose 2 life.
+
+ALL LOVES BLAZING
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 colorless Citizen creature tokens
+II — Creatures you control get +2/+0 and gain trample until end of turn.
+III — Target opponent may have ALL LOVES BLAZING deal 4 damage to them. If they don't, you draw two cards => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 colorless Citizen creature tokens
+II — Creatures you control get +2/+0 and gain trample until end of turn.
+III — Target opponent may have ALL LOVES BLAZING deal 3 damage to them. If they don't, you draw two cards
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 colorless Citizen creature tokens
+II — Creatures you control get +2/+0 and gain trample until end of turn.
+III — Target opponent may have ALL LOVES BLAZING deal 4 damage to them. If they don't, you draw two cards => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 colorless Citizen creature tokens
+II — Creatures you control get +2/+0 and gain trample until end of turn.
+III — Target opponent may have ALL LOVES BLAZING deal 3 damage to them. If they don't, you draw two cards
+
+Gun Bullet XXX
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 4/1 red Construct artifact creature token with haste named “Missile”.
+III — Sacrifice each permanent you control named “Missile”. Gun Bullet XXX deals 1 damage to each opponent for each permanent sacrificed this way.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 4/1 red Construct artifact creature token with haste named “Missile”.
+III — Sacrifice each permanent you control named “Missile”. Gun Bullet XXX deals 1 damage to each opponent for each permanent sacrificed this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 4/1 red Construct artifact creature token with haste named “Missile”.
+III — Sacrifice each permanent you control named “Missile”. Gun Bullet XXX deals 1 damage to each opponent for each permanent sacrificed this way.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 4/1 red Construct artifact creature token with haste named “Missile”.
+III — Sacrifice each permanent you control named “Missile”. Gun Bullet XXX deals 1 damage to each opponent for each permanent sacrificed this way.
+
+Makyu-u Ichaival
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library. You may play them for as long as you control Makyu-u Ichaival.
+II, III — Whenever you cast a spell this turn, Makyu-u Ichaival deals 1 damage to each opponent.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library. You may play them for as long as you control Makyu-u Ichaival.
+II, III — Whenever you cast a spell this turn, Makyu-u Ichaival deals 1 damage to each opponent.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library. You may play them for as long as you control Makyu-u Ichaival.
+II, III — Whenever you cast a spell this turn, Makyu-u Ichaival deals 1 damage to each opponent.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile the top three cards of your library. You may play them for as long as you control Makyu-u Ichaival.
+II, III — Whenever you cast a spell this turn, Makyu-u Ichaival deals 1 damage to each opponent.
+
+Waikyo-o Shen Shou Jing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player sacrifices an artifact or enchantment card they control.
+III — Return target permanent card from your graveyard to your hand.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player sacrifices an artifact or enchantment card they control.
+III — Return target permanent card from your graveyard to your hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player sacrifices an artifact or enchantment card they control.
+III — Return target permanent card from your graveyard to your hand.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player sacrifices an artifact or enchantment card they control.
+III — Return target permanent card from your graveyard to your hand.
+
+First Love Song
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power 4 or greater
+II — Target opponent pay may pay {2}. If they don't, create a colorless artifact named Meteor with “{T}: Add one mana of any color.”
+III — Creatures you control get +2/+1 and flying until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power 4 or greater
+II — Target opponent may pay {3}. If they don't, create a colorless artifact named Meteor with “{T}: Add one mana of any color.”
+III — Creatures you control get +2/+1 and flying until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power 4 or greater
+II — Target opponent pay may pay {2}. If they don't, create a colorless artifact named Meteor with “{T}: Add one mana of any color.”
+III — Creatures you control get +2/+1 and flying until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile target creature with power 4 or greater
+II — Target opponent may pay {3}. If they don't, create a colorless artifact named Meteor with “{T}: Add one mana of any color.”
+III — Creatures you control get +2/+1 and flying until end of turn.
+
+Axia no Kaze
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create three 1/1 colorless Citizen creature tokens.
+III — Create a 1/1 colorless Citizen creature token. then put a +1/+1 counter on each creature you control.
+IV — Creatures you control get deathtouch and lifelink until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create three 1/1 colorless Citizen creature tokens.
+III — Create a 1/1 colorless Citizen creature token. then put a +1/+1 counter on each creature you control.
+IV — Creatures you control get deathtouch and lifelink until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create three 1/1 colorless Citizen creature tokens.
+III — Create a 1/1 colorless Citizen creature token. then put a +1/+1 counter on each creature you control.
+IV — Creatures you control get deathtouch and lifelink until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create three 1/1 colorless Citizen creature tokens.
+III — Create a 1/1 colorless Citizen creature token. then put a +1/+1 counter on each creature you control.
+IV — Creatures you control get deathtouch and lifelink until end of turn.
+
+Gekkisho Infinity
+cost: {3}{R}{R} => {2}{R}{R}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter on each creature you control and a lore counter on each other saga you control.
+II — Destroy all artifacts you don't control.
+III — Gekkisho Infinity deals 2 damage to each creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter on each creature you control and a lore counter on each other saga you control.
+II — Add {U}{R}{W}.
+III — Destroy all artifacts you don't control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter on each creature you control and a lore counter on each other saga you control.
+II — Destroy all artifacts you don't control.
+III — Gekkisho Infinity deals 2 damage to each creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter on each creature you control and a lore counter on each other saga you control.
+II — Add {U}{R}{W}.
+III — Destroy all artifacts you don't control.
+
+Gyakko no Flugel
+
+Fu-ugetsu no Shisso-o
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose a creature. Exile all other nontoken creatures for as long as you control Fu-ugetsu no Shisso-o.
+II — Create a 0/7 blue Wall creature token with defender
+III — Creatures you control assign combat damage with their toughness and can attack as if they didn't have defender this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature. Exile all other nontoken creatures for as long as you control Fu-ugetsu no Shisso-o.
+II — Create a 0/7 blue Wall creature token with defender
+III — Creatures you control assign combat damage with their toughness and can attack as if they didn't have defender this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose a creature. Exile all other nontoken creatures for as long as you control Fu-ugetsu no Shisso-o.
+II — Create a 0/7 blue Wall creature token with defender
+III — Creatures you control assign combat damage with their toughness and can attack as if they didn't have defender this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature. Exile all other nontoken creatures for as long as you control Fu-ugetsu no Shisso-o.
+II — Create a 0/7 blue Wall creature token with defender
+III — Creatures you control assign combat damage with their toughness and can attack as if they didn't have defender this turn.
+
+Angelic Remnant
+cost: {2}{B}{B} => {1}{B}{B}{B}
+
+Rainbow Flower
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter on each creature you control.
+When a creature you control attacks this turn, it gets +3/+1 and gains trample until end of turn.
+II — Creatures can't block this turn.
+III — You lose the game. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Put a +1/+1 counter on each creature you control.
+II — When a creature you control attacks this turn, it gets +3/+1 and gains trample until end of turn.
+III — Creatures can't block this turn.
+IV — You lose the game.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a +1/+1 counter on each creature you control.
+When a creature you control attacks this turn, it gets +3/+1 and gains trample until end of turn.
+II — Creatures can't block this turn.
+III — You lose the game. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Put a +1/+1 counter on each creature you control.
+II — When a creature you control attacks this turn, it gets +3/+1 and gains trample until end of turn.
+III — Creatures can't block this turn.
+IV — You lose the game.
+
+Hitsuai Duo-Shout
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2, then double the number of counters on target creature. [i](To support 2, put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Each player gains 3 life.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2, then double the number of counters on target creature. [i](To support 2, put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Each player gains 3 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2, then double the number of counters on target creature. [i](To support 2, put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Each player gains 3 life.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Support 2, then double the number of counters on target creature. [i](To support 2, put a +1/+1 counter on each of up to two target creatures.)[/i]
+III — Each player gains 3 life.
+
+Arigato-o wo Utai Nagara
+
+Itsuka no Niji, Hana no Omoide
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card and put it into your hand, then shuffle.
+II — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+III — Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card and put it into your hand, then shuffle.
+II — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+III — Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card and put it into your hand, then shuffle.
+II — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+III — Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card and put it into your hand, then shuffle.
+II — Create a food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+III — Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+
+Change The Future
+cost: {R}{W}{B} => {2}{R}{W}{B}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature or artifact they control
+II — Discard your hand, then draw three cards.
+III — Exile all graveyards. Gain 1 life for each card exiled this way => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard your hand, then draw three cards.
+II — Put target permanent card in your graveyard onto the battlefield tapped
+III — Exile all graveyards. Gain 1 life for each card exiled this way
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature or artifact they control
+II — Discard your hand, then draw three cards.
+III — Exile all graveyards. Gain 1 life for each card exiled this way => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard your hand, then draw three cards.
+II — Put target permanent card in your graveyard onto the battlefield tapped
+III — Exile all graveyards. Gain 1 life for each card exiled this way
+
+Senkin Dur de Bla
+
+Senritsu Sorority
+
+Radiant Force
+
+Hajimari no Babel
+
+Kyo-oshitsu Monochrome
+
+Section 2 HQ
+type: Land => Legendary Land
+
+Perfect Symphony
+cost: {2}{W}{U}{B}{R}{G} => {1}{C}{W}{U}{B}{R}{G}
+
+METANOIA
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 7. [i](Put a +1/+1 counter on each of up to seven target creatures.)[/i]
+II — Search your library for a legendary creature, reveal it and put it into your hand.
+III — Exile target enchantment. If that enchantment was a God permanent, you gain 7 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 7. [i](Put a +1/+1 counter on each of up to seven target creatures.)[/i]
+II — Search your library for a legendary creature, reveal it and put it into your hand, then shuffle. 
+III — Exile target enchantment. If that enchantment was a God permanent, you gain 7 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 7. [i](Put a +1/+1 counter on each of up to seven target creatures.)[/i]
+II — Search your library for a legendary creature, reveal it and put it into your hand.
+III — Exile target enchantment. If that enchantment was a God permanent, you gain 7 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Support 7. [i](Put a +1/+1 counter on each of up to seven target creatures.)[/i]
+II — Search your library for a legendary creature, reveal it and put it into your hand, then shuffle. 
+III — Exile target enchantment. If that enchantment was a God permanent, you gain 7 life.
+
+TESTAMENT
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each equipment card in your graveyard to your hand.
+II — Put a flying counter on each creature you control.
+III — Target creature you control gets +X/+X until end of turn where X is the number of artifacts you control => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each equipment card in your graveyard to your hand.
+II — Artifacts cost you X less to cast this turn, where X is the number of colors among permanents you control.
+III — Target creature you control gets +X/+X until end of turn where X is the number of artifacts you control
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each equipment card in your graveyard to your hand.
+II — Put a flying counter on each creature you control.
+III — Target creature you control gets +X/+X until end of turn where X is the number of artifacts you control => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each equipment card in your graveyard to your hand.
+II — Artifacts cost you X less to cast this turn, where X is the number of colors among permanents you control.
+III — Target creature you control gets +X/+X until end of turn where X is the number of artifacts you control
+
+EXTERMINATE
+
+VITALIZATION
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create X colorless Noise creature tokens.
+II — Put a +1/+1 counter on target creature for each creature you control.
+III — Creatures you control have flying, trample and haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create X colorless Noise creature tokens.
+II — Put a +1/+1 counter on target creature for each creature you control.
+III — Creatures you control get flying, first strike, and trample until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create X colorless Noise creature tokens.
+II — Put a +1/+1 counter on target creature for each creature you control.
+III — Creatures you control have flying, trample and haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create X colorless Noise creature tokens.
+II — Put a +1/+1 counter on target creature for each creature you control.
+III — Creatures you control get flying, first strike, and trample until end of turn.
+
+SYNCHROGAZER
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put up to two artifacts, enchantments, and/or creatures from your hand onto the battlefield
+II — Put two +1/+1 counters on target creature, then double its power and toughness until end of turn. It fights each creature target player controls.
+III — Exile all artifacts and all enchantments. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put up to two artifacts, enchantments, and/or creatures from your hand onto the battlefield
+II — Put a +1/+1 counter on target creature, then double its power and toughness until end of turn. It fights each creature target player controls.
+III — Exile all artifacts and all enchantments.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put up to two artifacts, enchantments, and/or creatures from your hand onto the battlefield
+II — Put two +1/+1 counters on target creature, then double its power and toughness until end of turn. It fights each creature target player controls.
+III — Exile all artifacts and all enchantments. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put up to two artifacts, enchantments, and/or creatures from your hand onto the battlefield
+II — Put a +1/+1 counter on target creature, then double its power and toughness until end of turn. It fights each creature target player controls.
+III — Exile all artifacts and all enchantments.
+
+Ashita e no Flugel
+cost: {2}{G}{W}{U} => {4}{G}{W}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a vigilance counter, a lifelink counter, and a flying counter on each creature you control.
+II — Exile each players graveyard.
+III — Return target creature you own exiled with Ashita e no Flugel onto the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a vigilance counter, a lifelink counter, and a flying counter on each creature you control.
+II — Exile each player's graveyard.
+III — Put each creature you own exiled with Ashita e no Flugel onto the battlefield under your control. They are spirits in addition to their other types.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a vigilance counter, a lifelink counter, and a flying counter on each creature you control.
+II — Exile each players graveyard.
+III — Return target creature you own exiled with Ashita e no Flugel onto the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a vigilance counter, a lifelink counter, and a flying counter on each creature you control.
+II — Exile each player's graveyard.
+III — Put each creature you own exiled with Ashita e no Flugel onto the battlefield under your control. They are spirits in addition to their other types.
+
+Sforzando No Zankyo-o
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target opponent creates three blue 2/2 artificer creature tokens.
+Create two 1/1 red construct creature tokens with “sacrifice this creature: Gain 2 life.” 
+II — Create two 1/1 blue construct creature tokens with “sacrifice this creature: Gain 2 life.” 
+III — Create a 6/6 black legendary artificer creature token named Carol with lifelink and “when this creature enters it deals damage equal to its power to target creature.” => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target opponent creates three blue 2/2 artificer creature tokens.
+II — Create two 1/1 white construct creature tokens with “sacrifice this creature: Gain 2 life.” 
+III — Create two 1/1 black construct creature tokens with “sacrifice this creature: Scry 1.” 
+IV — Create a 6/6 black legendary artificer creature token named Carol with lifelink and “when this creature enters it deals damage equal to its power to target creature.”
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target opponent creates three blue 2/2 artificer creature tokens.
+Create two 1/1 red construct creature tokens with “sacrifice this creature: Gain 2 life.” 
+II — Create two 1/1 blue construct creature tokens with “sacrifice this creature: Gain 2 life.” 
+III — Create a 6/6 black legendary artificer creature token named Carol with lifelink and “when this creature enters it deals damage equal to its power to target creature.” => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target opponent creates three blue 2/2 artificer creature tokens.
+II — Create two 1/1 white construct creature tokens with “sacrifice this creature: Gain 2 life.” 
+III — Create two 1/1 black construct creature tokens with “sacrifice this creature: Scry 1.” 
+IV — Create a 6/6 black legendary artificer creature token named Carol with lifelink and “when this creature enters it deals damage equal to its power to target creature.”
+
+Final Commander
+
+FOR THE FUTURE
+
+Hanasaku Yu-uki GOLD
+
+Yggdrasil Sprouting Site
+rules_text: Yggdrasil Sprouting Site enters tapped.
+When Yggdrasil Sprouting Site enters return a land you control to its owners hand.
+{T}: Add {C}{C}.
+Tap seven creatures you control: Transform Yggdrasil Sprouting Site. => Yggdrasil Sprouting Site enters tapped.
+When Yggdrasil Sprouting Site enters, sacrifice it unless you return another land you control to its owners hand.
+{T}: Add {C}{C}.
+{T}, {7}, Tap seven untapped creatures you control: Transform Yggdrasil Sprouting Site.
+
+What it Sounds Like
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player loses half their life total rounded up.
+Support 3. [i](Put a +1/+1 counter on each of up to three target creatures.)[/i]
+II — Draw X cards, where X is your life total.
+III — Your life becomes your starting life total. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Each player loses half their life total rounded up.
+II — Support 3. [i](Put a +1/+1 counter on each of up to three target creatures.)[/i]
+III — Draw X cards, where X is your life total.
+IV — Your life becomes your starting life total.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player loses half their life total rounded up.
+Support 3. [i](Put a +1/+1 counter on each of up to three target creatures.)[/i]
+II — Draw X cards, where X is your life total.
+III — Your life becomes your starting life total. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Each player loses half their life total rounded up.
+II — Support 3. [i](Put a +1/+1 counter on each of up to three target creatures.)[/i]
+III — Draw X cards, where X is your life total.
+IV — Your life becomes your starting life total.
+
+Noise
+
+Artificer
+
+Food
+rules_text: {2}, {T}: You gain 3 life. => {2}, {T}, Sacrifice this artifact: You gain 3 life.
+
+Gyakko-o No Resolve
+
+Citizen
+
+Genkai Toppa G-Beat
+
+Ginwan Airgetlam
+
+Trust Heart
+
+Beyond the Blade
+
+Just Loving X-Edge
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Touch of Shem-Ha added.
